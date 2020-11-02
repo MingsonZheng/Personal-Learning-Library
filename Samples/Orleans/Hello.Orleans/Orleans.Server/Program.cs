@@ -1,9 +1,11 @@
 ﻿using System;
-using System.Net;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Orleans.AdoNet.SqlServer.Clustering;
+using Orleans.AdoNet.SqlServer.Persistence;
+using Orleans.AdoNet.SqlServer.Reminder;
 using Orleans.Configuration;
 using Orleans.Grains;
 using Orleans.Hosting;
@@ -20,17 +22,35 @@ namespace Orleans.Server
             return Host.CreateDefaultBuilder()// 创建泛型主机提供宿主环境
                 .UseOrleans((builder) =>// 用来配置Oleans
                 {
-                        builder.UseLocalhostClustering()// 用于在开发环境下指定连接到本地集群
-                            .AddMemoryGrainStorageAsDefault()
-                            .Configure<ClusterOptions>(options =>// 用于指定连接到那个集群
-                            {
-                                options.ClusterId = "Hello.Orleans";
-                                options.ServiceId = "Hello.Orleans";
-                            })
-                            .Configure<EndpointOptions>(options => options.AdvertisedIPAddress = IPAddress.Loopback)// 用于配置silo与silo、silo与client之间的通信端点。开发环境下可仅指定回环地址作为集群间通信的IP地址
-                            .ConfigureApplicationParts(parts =>// 用于指定暴露哪些Grain服务
-                                parts.AddApplicationPart(typeof(ISessionControlGrain).Assembly).WithReferences());
-                    }
+                    var connectionString =
+                        @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Hello.Orleans;Integrated Security=True;Pooling=False;Max Pool Size=200;MultipleActiveResultSets=True";
+
+                    //use AdoNet for clustering 
+                    builder.UseSqlServerClustering(options =>
+                    {
+                        options.ConnectionString = connectionString;
+                    }).Configure<ClusterOptions>(options =>
+                    {
+                        options.ClusterId = "Hello.Orleans";
+                        options.ServiceId = "Hello.Orleans";
+                    }).ConfigureEndpoints(new Random().Next(10001, 20000), new Random().Next(20001, 30000));
+
+                    //use AdoNet for reminder service
+                    builder.UseSqlServerReminderService(options =>
+                    {
+                        options.ConnectionString = connectionString;
+                    });
+
+                    //use AdoNet for Persistence
+                    builder.AddSqlServerGrainStorageAsDefault(options =>
+                    {
+                        options.ConnectionString = connectionString;
+                        options.UseJsonFormat = true;
+                    });
+
+                    builder.ConfigureApplicationParts(parts =>
+                        parts.AddApplicationPart(typeof(ISessionControlGrain).Assembly).WithReferences());
+                }
                 )
                 .ConfigureServices(services =>
                 {
