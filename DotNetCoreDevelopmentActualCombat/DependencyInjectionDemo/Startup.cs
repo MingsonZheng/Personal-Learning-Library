@@ -1,17 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using DependencyInjectionDemo.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace DependencyInjectionDemo
 {
@@ -43,14 +36,24 @@ namespace DependencyInjectionDemo
             #region 花式注册
 
             services.AddSingleton<IOrderService>(new OrderService1());  //直接注入实例
+            services.AddSingleton<IOrderService, OrderService2>();
 
             #endregion
 
             #region 尝试注册（如果服务已经注册过，则不再注册）
 
-            services.TryAddSingleton<IOrderService, OrderService2>();
+            services.TryAddSingleton<IOrderService, OrderService2>();// 接口类型重复，则不注册
+            services.TryAddEnumerable(ServiceDescriptor.Singleton<IOrderService, OrderService1>());// 相同类型的接口，实现类相同，则不注册
 
             #endregion
+
+            // 因为已经注册过 OrderService，所以第二句代码不生效
+            services.AddSingleton<IOrderService>(new OrderService1());
+            services.TryAddEnumerable(ServiceDescriptor.Singleton<IOrderService, OrderService1>());
+
+            // 以不同的实现注册服务
+            services.AddSingleton<IOrderService>(new OrderService1());
+            services.TryAddEnumerable(ServiceDescriptor.Singleton<IOrderService, OrderService2>());
 
             services.AddControllers();
         }
