@@ -47,13 +47,40 @@ namespace DependencyInjectionDemo
 
             #endregion
 
-            // 因为已经注册过 OrderService，所以第二句代码不生效
+            #region 因为已经注册过 OrderService，所以第二句代码不生效
+
             services.AddSingleton<IOrderService>(new OrderService1());
             services.TryAddEnumerable(ServiceDescriptor.Singleton<IOrderService, OrderService1>());
 
-            // 以不同的实现注册服务
+            #endregion
+
+            #region 以不同的实现注册服务
+
             services.AddSingleton<IOrderService>(new OrderService1());
             services.TryAddEnumerable(ServiceDescriptor.Singleton<IOrderService, OrderService2>());
+
+            #endregion
+
+            #region 注册完毕之后，想替换某些组件的某些部分时，可以使用 Replace 和 RemoveAll
+
+            services.AddSingleton<IOrderService>(new OrderService1());
+            services.Replace(ServiceDescriptor.Singleton<IOrderService, OrderService2>());// 替换掉注册的第一个实现
+
+            #endregion
+
+            #region 移除所有 IOrderService 的注册
+
+            services.AddSingleton<IOrderService>(new OrderService1());
+            services.AddSingleton<IOrderService, OrderService2>();
+            services.RemoveAll<IOrderService>();
+
+            #endregion
+
+            #region 泛型模板注册方法
+
+            services.AddSingleton(typeof(IGenericService<>), typeof(GenericService<>));
+
+            #endregion
 
             services.AddControllers();
         }

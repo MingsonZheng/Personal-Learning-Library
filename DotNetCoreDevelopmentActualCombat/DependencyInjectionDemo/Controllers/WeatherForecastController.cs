@@ -16,9 +16,13 @@ namespace DependencyInjectionDemo.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly IOrderService _orderService;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        // 在构造函数中添加两个入参，IOrderService 和 IGenericService
+        // 通过断点调试查看 genericService 的类型可得知，泛型的具体实现可以用容器里面的任意类型来替代
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, IOrderService orderService, IGenericService<IOrderService> genericService)
         {
+            _orderService = orderService;
             _logger = logger;
         }
 
