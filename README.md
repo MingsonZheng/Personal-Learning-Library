@@ -6,4 +6,6 @@
 - Samples
 
 ## DesignPattern（设计模式）
-- [SingletonPattern](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern)
+- [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern)
+- [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern)
+- [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern)
