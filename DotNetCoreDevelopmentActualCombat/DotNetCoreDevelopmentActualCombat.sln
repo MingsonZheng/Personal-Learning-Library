@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionAutofacD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationDemo", "ConfigurationDemo\ConfigurationDemo.csproj", "{313F6CC1-D6CC-49D8-BDA0-94E64C17F7F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationCommandLineDemo", "ConfigurationCommandLineDemo\ConfigurationCommandLineDemo.csproj", "{AA9A91F1-A686-4695-9C30-7ADB43FD456E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{313F6CC1-D6CC-49D8-BDA0-94E64C17F7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{313F6CC1-D6CC-49D8-BDA0-94E64C17F7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{313F6CC1-D6CC-49D8-BDA0-94E64C17F7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9A91F1-A686-4695-9C30-7ADB43FD456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9A91F1-A686-4695-9C30-7ADB43FD456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9A91F1-A686-4695-9C30-7ADB43FD456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9A91F1-A686-4695-9C30-7ADB43FD456E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
