@@ -1,6 +1,6 @@
 # 个人学习资料存储仓库
 
-- DesignPattern（设计模式）
+- [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - LeetCode
 - Samples
