@@ -2,7 +2,7 @@
 
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
-- LeetCode
+- [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - Samples
 
 ## DesignPattern（设计模式）
@@ -29,3 +29,6 @@
 - [配置框架：让服务无缝适应各种环境](https://www.cnblogs.com/MingsonZheng/p/12359663.html)
 - [命令行配置提供程序：最简单快捷的配置注入方法](https://www.cnblogs.com/MingsonZheng/p/12364895.html)
 - [环境变量配置提供程序：容器环境下配置注入的最佳途径](https://www.cnblogs.com/MingsonZheng/p/12370142.html)
+
+## LeetCode
+- [两数之和](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)
