@@ -3,7 +3,7 @@
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
-- Samples
+- [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
 
 ## DesignPattern（设计模式）
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
@@ -56,4 +56,5 @@
 - [023. 合并K个排序链表](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/023.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/Program.cs)
 - [024. 两两交换链表中的节点](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/024.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/Program.cs)
 
-
+## Samples
+- [Orleans](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples/Orleans/Hello.Orleans)
