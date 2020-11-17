@@ -6,17 +6,17 @@
 - Samples
 
 ## DesignPattern（设计模式）
-- [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern)
-- [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern)
-- [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern)
-- [BuilderPattern（建造者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/BuilderPattern)
-- [PrototypePattern（原型模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/PrototypePattern)
-- [ProxyPattern（代理模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ProxyPattern)
-- [MediatorPattern（中介者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MediatorPattern)
-- [CommandPattern（命令模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CommandPattern)
-- [ChainOfResponsibility（责任链模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ChainOfResponsibility)
-- [DecoratorPattern（装饰模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/DecoratorPattern)
-- [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern)
+- [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
+- [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern/Program.cs)
+- [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern/Program.cs)
+- [BuilderPattern（建造者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/BuilderPattern/Program.cs)
+- [PrototypePattern（原型模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/PrototypePattern/Program.cs)
+- [ProxyPattern（代理模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ProxyPattern/Program.cs)
+- [MediatorPattern（中介者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MediatorPattern/Program.cs)
+- [CommandPattern（命令模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CommandPattern/Program.cs)
+- [ChainOfResponsibility（责任链模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ChainOfResponsibility/Program.cs)
+- [DecoratorPattern（装饰模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/DecoratorPattern/Program.cs)
+- [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern/Program.cs)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
@@ -55,5 +55,5 @@
 - [022. 括号生成](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/022.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90/Program.cs)
 - [023. 合并K个排序链表](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/023.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/Program.cs)
 - [024. 两两交换链表中的节点](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/024.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/Program.cs)
-- [25. K 个一组翻转链表](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/025.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/Program.cs)
+
 
