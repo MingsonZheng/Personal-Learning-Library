@@ -31,6 +31,9 @@
 - [配置框架：让服务无缝适应各种环境](https://www.cnblogs.com/MingsonZheng/p/12359663.html)
 - [命令行配置提供程序：最简单快捷的配置注入方法](https://www.cnblogs.com/MingsonZheng/p/12364895.html)
 - [环境变量配置提供程序：容器环境下配置注入的最佳途径](https://www.cnblogs.com/MingsonZheng/p/12370142.html)
+- [文件配置提供程序：自由选择配置的格式](https://www.cnblogs.com/MingsonZheng/p/12375425.html)
+- [配置变更监听：配置热更新能力的核心](https://www.cnblogs.com/MingsonZheng/p/12381247.html)
+- [配置绑定：使用强类型对象承载配置数据](https://www.cnblogs.com/MingsonZheng/p/12387527.html)
 
 ## LeetCode
 - [001.两数之和](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/Program.cs)
