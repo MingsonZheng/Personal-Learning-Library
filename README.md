@@ -17,6 +17,8 @@
 - [ChainOfResponsibility（责任链模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ChainOfResponsibility/Program.cs)
 - [DecoratorPattern（装饰模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/DecoratorPattern/Program.cs)
 - [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern/Program.cs)
+- [AdapterPattern（适配器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/AdapterPattern/Program.cs)
+- [IteratorPattern（迭代器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/IteratorPattern/Program.cs)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
