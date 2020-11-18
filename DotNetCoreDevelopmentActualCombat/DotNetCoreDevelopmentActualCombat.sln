@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationCommandLineDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationEnvironmentVariablesDemo", "ConfigurationEnvironmentVariablesDemo\ConfigurationEnvironmentVariablesDemo.csproj", "{65B45119-FCE5-476D-BDEA-9A3FD74C2EA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationFileDemo", "ConfigurationFileDemo\ConfigurationFileDemo.csproj", "{789212BF-AAE8-4FB2-8762-442750E07A43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{65B45119-FCE5-476D-BDEA-9A3FD74C2EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65B45119-FCE5-476D-BDEA-9A3FD74C2EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65B45119-FCE5-476D-BDEA-9A3FD74C2EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789212BF-AAE8-4FB2-8762-442750E07A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789212BF-AAE8-4FB2-8762-442750E07A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789212BF-AAE8-4FB2-8762-442750E07A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789212BF-AAE8-4FB2-8762-442750E07A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
