@@ -25,7 +25,7 @@ namespace OptionsDemo
             //services.AddSingleton<IOrderService, OrderService>();
             //services.AddScoped<IOrderService, OrderService>();
 
-            //services.AddOrderService(Configuration.GetSection("OrderService"));
+            services.AddOrderService(Configuration.GetSection("OrderService"));
 
             //services.AddOptions<OrderServiceOptions>().Configure(options =>
             //{
