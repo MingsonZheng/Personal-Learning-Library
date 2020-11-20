@@ -34,6 +34,11 @@
 - [第11课：文件配置提供程序：自由选择配置的格式](https://www.cnblogs.com/MingsonZheng/p/12375425.html)
 - [第12课：配置变更监听：配置热更新能力的核心](https://www.cnblogs.com/MingsonZheng/p/12381247.html)
 - [第13课：配置绑定：使用强类型对象承载配置数据](https://www.cnblogs.com/MingsonZheng/p/12387527.html)
+- [第14课：自定义配置数据源：低成本实现定制化配置方案](https://www.cnblogs.com/MingsonZheng/p/12393150.html)
+- [第15课：选项框架：服务组件集成配置的最佳实践](https://www.cnblogs.com/MingsonZheng/p/12399156.html)
+- [第16课：选项数据热更新：让服务感知配置的变化](https://www.cnblogs.com/MingsonZheng/p/12405741.html)
+- [第17课：为选项数据添加验证：避免错误配置的应用接收用户流量](https://www.cnblogs.com/MingsonZheng/p/12417178.html)
+- [第18课：日志框架：聊聊记日志的最佳姿势](https://www.cnblogs.com/MingsonZheng/p/12424084.html)
 
 ## LeetCode
 - [001.两数之和](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/Program.cs)
