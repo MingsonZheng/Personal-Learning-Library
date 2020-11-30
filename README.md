@@ -19,6 +19,11 @@
 - [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern/Program.cs)
 - [AdapterPattern（适配器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/AdapterPattern/Program.cs)
 - [IteratorPattern（迭代器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/IteratorPattern/Program.cs)
+- [CompositePattern（组合模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CompositePattern/Program.cs)
+- [ObserverPattern（观察者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ObserverPattern/Program.cs)
+- [FacadePattern（门面模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FacadePattern/Program.cs)
+- [MementoPattern（备忘录模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MementoPattern/Program.cs)
+- [VisitorPattern（访问者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/VisitorPattern/Program.cs)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
