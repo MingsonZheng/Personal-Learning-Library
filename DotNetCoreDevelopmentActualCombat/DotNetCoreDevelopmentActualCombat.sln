@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingScopeDemo", "Logging
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingDemo", "LoggingDemo\LoggingDemo.csproj", "{D4CB621E-7E44-4D52-8250-327666171846}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingSerilogDemo", "LoggingSerilogDemo\LoggingSerilogDemo.csproj", "{6BEC02BD-2818-4E0C-A5C8-7F46EEBA00AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D4CB621E-7E44-4D52-8250-327666171846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4CB621E-7E44-4D52-8250-327666171846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4CB621E-7E44-4D52-8250-327666171846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BEC02BD-2818-4E0C-A5C8-7F46EEBA00AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEC02BD-2818-4E0C-A5C8-7F46EEBA00AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEC02BD-2818-4E0C-A5C8-7F46EEBA00AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEC02BD-2818-4E0C-A5C8-7F46EEBA00AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
