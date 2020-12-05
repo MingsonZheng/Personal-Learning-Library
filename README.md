@@ -1,9 +1,13 @@
 # 个人学习资料存储仓库
 
+- [ArchitectTrainingCamp](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/ArchitectTrainingCamp)
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
+
+## ArchitectTrainingCamp（.NET 云原生架构师训练营）
+- [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 
 ## DesignPattern（设计模式）
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
