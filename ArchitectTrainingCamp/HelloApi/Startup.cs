@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HelloApi.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -50,6 +51,8 @@ namespace HelloApi
             //    }
             //});
 
+            services.AddHostedService<MyBackgroundService>();
+
             services.AddControllers();
         }
 
@@ -61,6 +64,7 @@ namespace HelloApi
                 app.UseDeveloperExceptionPage();
             }
 
+            // 默认启用 https
             app.UseHttpsRedirection();
 
             app.UseRouting();

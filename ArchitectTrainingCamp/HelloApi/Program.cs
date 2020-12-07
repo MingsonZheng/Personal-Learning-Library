@@ -39,14 +39,41 @@ namespace HelloApi
                 Console.WriteLine(provider.GetType().ToString());
             }
 
+            var applicationLifetime = host.Services.GetRequiredService<IHostApplicationLifetime>();
+
+            applicationLifetime.ApplicationStarted.Register((() =>
+            {
+                Console.WriteLine("Application Started");
+            }));
+
+            applicationLifetime.ApplicationStopping.Register((() =>
+            {
+                Console.WriteLine("Application Stopping");
+            }));
+
+            applicationLifetime.ApplicationStopped.Register((() =>
+            {
+                Console.WriteLine("Application Stopped");
+            }));
+
             host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                .ConfigureHostConfiguration(configure =>
+                {
+
+                })
                 .ConfigureAppConfiguration((hostingContext, config) =>
                 {
                     config.Sources.Clear();
+
+                    // 内容根目录
+                    var root = hostingContext.HostingEnvironment.ContentRootPath;
+
+                    // 环境
+                    var envName = hostingContext.HostingEnvironment.EnvironmentName;
 
                     var env = hostingContext.HostingEnvironment;
 
