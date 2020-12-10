@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStaging", "MyStaging\MyStaging.csproj", "{3B2BE9DE-624F-4950-AFF7-60D9BEAF34F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStaging.Gen", "MyStaging.Gen\MyStaging.Gen.csproj", "{EF3043FE-8FCD-45C4-B067-E0949473DE50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStaging", "MyStaging\MyStaging.csproj", "{FB3A9493-7138-4B13-8EBB-73127E6A7368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStaging.PostgreSQL", "MyStaging.PostgreSQL\MyStaging.PostgreSQL.csproj", "{C298DCF1-8236-495A-990B-C7CF2D6D8AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B2BE9DE-624F-4950-AFF7-60D9BEAF34F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B2BE9DE-624F-4950-AFF7-60D9BEAF34F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B2BE9DE-624F-4950-AFF7-60D9BEAF34F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B2BE9DE-624F-4950-AFF7-60D9BEAF34F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3043FE-8FCD-45C4-B067-E0949473DE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3043FE-8FCD-45C4-B067-E0949473DE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3043FE-8FCD-45C4-B067-E0949473DE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3043FE-8FCD-45C4-B067-E0949473DE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3A9493-7138-4B13-8EBB-73127E6A7368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3A9493-7138-4B13-8EBB-73127E6A7368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3A9493-7138-4B13-8EBB-73127E6A7368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3A9493-7138-4B13-8EBB-73127E6A7368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C298DCF1-8236-495A-990B-C7CF2D6D8AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C298DCF1-8236-495A-990B-C7CF2D6D8AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C298DCF1-8236-495A-990B-C7CF2D6D8AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C298DCF1-8236-495A-990B-C7CF2D6D8AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
