@@ -1,6 +1,5 @@
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\HelloApi.exe
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\HelloApi.deps.json
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\HelloApi.runtimeconfig.json
@@ -18,3 +17,4 @@ C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCa
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.dll
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.pdb
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.genruntimeconfig.cache
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\HelloApi.styles.css
