@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using HelloApi.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -66,10 +67,22 @@ namespace HelloApi
 
             // 默认启用 https
             app.UseHttpsRedirection();
-
             app.UseRouting();
-
+            //app.UseCors();
+            //app.UseAuthentication();
             app.UseAuthorization();
+
+            // 添加一些自定义的中间件
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("my middleware 1");
+                await next();
+            });
+            
+            app.Run(async context =>
+            {
+                await context.Response.WriteAsync("my middleware 2");
+            });
 
             app.UseEndpoints(endpoints =>
             {
