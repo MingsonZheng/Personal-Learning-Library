@@ -1,8 +1,9 @@
 # 个人学习资料存储仓库
 
 - [ASP.NET Core Quick Start（ASP.NET Core快速入门）](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
-- [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
-- [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/ArchitectTrainingCamp)
+- [ASP.NET Core Distributed Project Combat（ASP.NET Core分布式项目实战）](https://www.cnblogs.com/MingsonZheng/p/12617119.html)
+- [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
+- [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
@@ -15,6 +16,24 @@
 - [第4章：ASP.NET Core HTTP介绍](https://www.cnblogs.com/MingsonZheng/p/11355557.html)
 - [第5章：认证与授权](https://www.cnblogs.com/MingsonZheng/p/11614686.html)
 - [第6章：ASP.NET Core MVC](https://www.cnblogs.com/MingsonZheng/p/11623815.html)
+
+## ASP.NET Core Distributed Project Combat（ASP.NET Core分布式项目实战）
+-[课程介绍，MVP，瀑布与敏捷](https://www.cnblogs.com/MingsonZheng/p/12617119.html)
+-[业务介绍，架构设计，oAuth2，IdentityServer4](https://www.cnblogs.com/MingsonZheng/p/12630155.html)
+-[客户端集成IdentityServer](https://www.cnblogs.com/MingsonZheng/p/12640078.html)
+-[第三方ClientCredential模式调用](https://www.cnblogs.com/MingsonZheng/p/12657373.html)
+-[oauth密码模式identity server4实现](https://www.cnblogs.com/MingsonZheng/p/12670821.html)
+-[详解oauth2授权码流程](https://www.cnblogs.com/MingsonZheng/p/12847048.html)
+-[oauth2与open id connect 对比](https://www.cnblogs.com/MingsonZheng/p/12854348.html)
+-[oauth2 + oidc 实现 server部分](https://www.cnblogs.com/MingsonZheng/p/12861761.html)
+-[oauth2 + oidc 实现 client部分](https://www.cnblogs.com/MingsonZheng/p/12866453.html)
+-[Identity Server 4回顾，Consent 实现思路介绍](https://www.cnblogs.com/MingsonZheng/p/12873478.html)
+-[Consent视图制作](https://www.cnblogs.com/MingsonZheng/p/12879938.html)
+-[Consent Controller Get请求逻辑实现](https://www.cnblogs.com/MingsonZheng/p/12886040.html)
+-[运行Consent Page](https://www.cnblogs.com/MingsonZheng/p/12892456.html)
+-[Consent 确认逻辑实现](https://www.cnblogs.com/MingsonZheng/p/12984989.html)
+-[Consent 代码重构](https://www.cnblogs.com/MingsonZheng/p/13034933.html)
+-[集成ASP.NETCore Identity](https://www.cnblogs.com/MingsonZheng/p/13128823.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
