@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareDemo", "Middlewar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionDemo", "ExceptionDemo\ExceptionDemo.csproj", "{C3E61AFC-B6EB-4666-AA2B-7E6780CE0126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFilesDemo", "StaticFilesDemo\StaticFilesDemo.csproj", "{6325E9A8-A79C-4F77-9856-4CB90B77816A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C3E61AFC-B6EB-4666-AA2B-7E6780CE0126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E61AFC-B6EB-4666-AA2B-7E6780CE0126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E61AFC-B6EB-4666-AA2B-7E6780CE0126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6325E9A8-A79C-4F77-9856-4CB90B77816A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6325E9A8-A79C-4F77-9856-4CB90B77816A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6325E9A8-A79C-4F77-9856-4CB90B77816A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6325E9A8-A79C-4F77-9856-4CB90B77816A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
