@@ -56,6 +56,17 @@
 - [第22课：异常处理中间件：区分真异常与逻辑异常](https://www.cnblogs.com/MingsonZheng/p/12466561.html)
 - [第23课：静态文件中间件：前后端分离开发合并部署骚操作](https://www.cnblogs.com/MingsonZheng/p/12490058.html)
 - [第24课：文件提供程序：让你可以将文件放在任何地方](https://www.cnblogs.com/MingsonZheng/p/12501258.html)
+- [第25课：路由与终结点：如何规划好你的Web API](https://www.cnblogs.com/MingsonZheng/p/12508156.html)
+- [第26课：工程结构概览：定义应用分层及依赖关系](https://www.cnblogs.com/MingsonZheng/p/12521534.html)
+- [第27课：定义Entity：区分领域模型的内在逻辑和外在行为](https://www.cnblogs.com/MingsonZheng/p/12528546.html)
+- [第28课：工作单元模式（UnitOfWork）：管理好你的事务](https://www.cnblogs.com/MingsonZheng/p/12535793.html)
+- [第29课：定义仓储：使用EF Core实现仓储层](https://www.cnblogs.com/MingsonZheng/p/12543593.html)
+- [第30课：领域事件：提升业务内聚，实现模块解耦](https://www.cnblogs.com/MingsonZheng/p/12556333.html)
+- [第31课：APIController：定义API的最佳实践](https://www.cnblogs.com/MingsonZheng/p/12563204.html)
+- [第32课：集成事件：解决跨微服务的最终一致性](https://www.cnblogs.com/MingsonZheng/p/12571749.html)
+- [第33课：集成事件：使用RabbitMQ来实现EventBus](https://www.cnblogs.com/MingsonZheng/p/12578716.html)
+- [第34课：MediatR：轻松实现命令查询职责分离模式（CQRS）](https://www.cnblogs.com/MingsonZheng/p/12590364.html)
+- [第35课：MediatR：让领域事件处理更加优雅](https://www.cnblogs.com/MingsonZheng/p/12609776.html)
 
 ## Github
 - [mystaging](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github/mystaging)
