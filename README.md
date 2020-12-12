@@ -1,16 +1,12 @@
 # 个人学习资料存储仓库
 
-- [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/ArchitectTrainingCamp)
 - [ASP.NET Core Quick Start（ASP.NET Core快速入门）](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
-- [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
-- [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
+- [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/ArchitectTrainingCamp)
+- [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
+- [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
-
-## ArchitectTrainingCamp（.NET 云原生架构师训练营）
-- [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
-- [模块二 基础巩固 引入](https://www.cnblogs.com/MingsonZheng/p/14100096.html)
 
 ## ASP.NET Core Quick Start（ASP.NET Core快速入门）
 - [第1章：介绍与引入](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
@@ -19,26 +15,6 @@
 - [第4章：ASP.NET Core HTTP介绍](https://www.cnblogs.com/MingsonZheng/p/11355557.html)
 - [第5章：认证与授权](https://www.cnblogs.com/MingsonZheng/p/11614686.html)
 - [第6章：ASP.NET Core MVC](https://www.cnblogs.com/MingsonZheng/p/11623815.html)
-
-## DesignPattern（设计模式）
-- [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
-- [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern/Program.cs)
-- [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern/Program.cs)
-- [BuilderPattern（建造者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/BuilderPattern/Program.cs)
-- [PrototypePattern（原型模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/PrototypePattern/Program.cs)
-- [ProxyPattern（代理模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ProxyPattern/Program.cs)
-- [MediatorPattern（中介者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MediatorPattern/Program.cs)
-- [CommandPattern（命令模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CommandPattern/Program.cs)
-- [ChainOfResponsibility（责任链模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ChainOfResponsibility/Program.cs)
-- [DecoratorPattern（装饰模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/DecoratorPattern/Program.cs)
-- [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern/Program.cs)
-- [AdapterPattern（适配器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/AdapterPattern/Program.cs)
-- [IteratorPattern（迭代器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/IteratorPattern/Program.cs)
-- [CompositePattern（组合模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CompositePattern/Program.cs)
-- [ObserverPattern（观察者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ObserverPattern/Program.cs)
-- [FacadePattern（门面模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FacadePattern/Program.cs)
-- [MementoPattern（备忘录模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MementoPattern/Program.cs)
-- [VisitorPattern（访问者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/VisitorPattern/Program.cs)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
@@ -77,8 +53,29 @@
 - [第34课：MediatR：轻松实现命令查询职责分离模式（CQRS）](https://www.cnblogs.com/MingsonZheng/p/12590364.html)
 - [第35课：MediatR：让领域事件处理更加优雅](https://www.cnblogs.com/MingsonZheng/p/12609776.html)
 
-## Github
-- [mystaging](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github/mystaging)
+## ArchitectTrainingCamp（.NET 云原生架构师训练营）
+- [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
+- [模块二 基础巩固 引入](https://www.cnblogs.com/MingsonZheng/p/14100096.html)
+
+## DesignPattern（设计模式）
+- [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
+- [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern/Program.cs)
+- [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern/Program.cs)
+- [BuilderPattern（建造者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/BuilderPattern/Program.cs)
+- [PrototypePattern（原型模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/PrototypePattern/Program.cs)
+- [ProxyPattern（代理模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ProxyPattern/Program.cs)
+- [MediatorPattern（中介者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MediatorPattern/Program.cs)
+- [CommandPattern（命令模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CommandPattern/Program.cs)
+- [ChainOfResponsibility（责任链模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ChainOfResponsibility/Program.cs)
+- [DecoratorPattern（装饰模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/DecoratorPattern/Program.cs)
+- [StrategyPattern（策略模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/StrategyPattern/Program.cs)
+- [AdapterPattern（适配器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/AdapterPattern/Program.cs)
+- [IteratorPattern（迭代器模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/IteratorPattern/Program.cs)
+- [CompositePattern（组合模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/CompositePattern/Program.cs)
+- [ObserverPattern（观察者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/ObserverPattern/Program.cs)
+- [FacadePattern（门面模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FacadePattern/Program.cs)
+- [MementoPattern（备忘录模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MementoPattern/Program.cs)
+- [VisitorPattern（访问者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/VisitorPattern/Program.cs)
 
 ## LeetCode
 - [001.两数之和](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/Program.cs)
@@ -105,6 +102,9 @@
 - [022. 括号生成](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/022.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90/Program.cs)
 - [023. 合并K个排序链表](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/023.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/Program.cs)
 - [024. 两两交换链表中的节点](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/024.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/Program.cs)
+
+## Github
+- [mystaging](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github/mystaging)
 
 ## Samples
 - [Orleans](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples/Orleans/Hello.Orleans)
