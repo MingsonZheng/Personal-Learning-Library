@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFilesDemo", "StaticFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProviderDemo", "FileProviderDemo\FileProviderDemo.csproj", "{7DCF2A0E-EEE5-478F-9E30-955472F63FE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingDemo", "RoutingDemo\RoutingDemo.csproj", "{B81DF801-C34E-41F5-900E-6D3512D7867E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{7DCF2A0E-EEE5-478F-9E30-955472F63FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCF2A0E-EEE5-478F-9E30-955472F63FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCF2A0E-EEE5-478F-9E30-955472F63FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81DF801-C34E-41F5-900E-6D3512D7867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81DF801-C34E-41F5-900E-6D3512D7867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81DF801-C34E-41F5-900E-6D3512D7867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81DF801-C34E-41F5-900E-6D3512D7867E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
