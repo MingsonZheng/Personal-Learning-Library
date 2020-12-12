@@ -53,6 +53,9 @@
 - [第19课：日志作用域：解决不同请求之间的日志干扰](https://www.cnblogs.com/MingsonZheng/p/12439605.html)
 - [第20课：结构化日志组件Serilog：记录对查询分析友好的日志](https://www.cnblogs.com/MingsonZheng/p/12446041.html)
 - [第21课：中间件：掌控请求处理过程的关键](https://www.cnblogs.com/MingsonZheng/p/12452845.html)
+- [第22课：异常处理中间件：区分真异常与逻辑异常](https://www.cnblogs.com/MingsonZheng/p/12466561.html)
+- [第23课：静态文件中间件：前后端分离开发合并部署骚操作](https://www.cnblogs.com/MingsonZheng/p/12490058.html)
+- [第24课：文件提供程序：让你可以将文件放在任何地方](https://www.cnblogs.com/MingsonZheng/p/12501258.html)
 
 ## Github
 - [mystaging](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github/mystaging)
