@@ -1,6 +1,7 @@
 # 个人学习资料存储仓库
 
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/ArchitectTrainingCamp)
+- [ASP.NET Core Quick Start（ASP.NET Core快速入门）](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DotNetCoreDevelopmentActualCombat)
 - [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
@@ -10,6 +11,14 @@
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [模块二 基础巩固 引入](https://www.cnblogs.com/MingsonZheng/p/14100096.html)
+
+## ASP.NET Core Quick Start（ASP.NET Core快速入门）
+- [第1章：介绍与引入](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
+- [第2章：配置管理](https://www.cnblogs.com/MingsonZheng/p/11273689.html)
+- [第3章：依赖注入](https://www.cnblogs.com/MingsonZheng/p/11273694.html)
+- [第4章：ASP.NET Core HTTP介绍](https://www.cnblogs.com/MingsonZheng/p/11355557.html)
+- [第5章：认证与授权](https://www.cnblogs.com/MingsonZheng/p/11614686.html)
+- [第6章：ASP.NET Core MVC](https://www.cnblogs.com/MingsonZheng/p/11623815.html)
 
 ## DesignPattern（设计模式）
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
