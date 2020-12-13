@@ -46,7 +46,8 @@ namespace HelloApi.Controllers
         //    });
         //}
 
-        [HttpGet("option")]
+        [HttpGet]
+        [Route("option")]
         public IActionResult GetOption()
         {
             return Ok(_myOption);

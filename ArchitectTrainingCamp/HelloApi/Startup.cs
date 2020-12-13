@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -70,24 +71,84 @@ namespace HelloApi
             app.UseRouting();
             //app.UseCors();
             //app.UseAuthentication();
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
-            // 添加一些自定义的中间件
-            app.Use(async (context, next) =>
+            //// 添加一些自定义的中间件
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("my middleware 1");
+            //    await next();
+            //});
+
+            //app.Run(async context =>
+            //{
+            //    await context.Response.WriteAsync("my middleware 2");
+            //});
+
+            // 路由和终结点之间的中间件可以拿到终结点的信息
+            app.Use(next => context =>
             {
-                await context.Response.WriteAsync("my middleware 1");
-                await next();
-            });
-            
-            app.Run(async context =>
-            {
-                await context.Response.WriteAsync("my middleware 2");
+                // 获取当前已经被选择的终结点
+                var endpoint = context.GetEndpoint();
+                if (endpoint is null)
+                {
+                    return Task.CompletedTask;
+                }
+                // 输出终结点的名称
+                Console.WriteLine($"Endpoint: {endpoint.DisplayName}");
+                // 打印终结点匹配的路由
+                if (endpoint is RouteEndpoint routeEndpoint)
+                {
+                    Console.WriteLine("Endpoint has route pattern: " +
+                                      routeEndpoint.RoutePattern.RawText);
+                }
+                // 打印终结点的元数据
+                foreach (var metadata in endpoint.Metadata)
+                {
+                    Console.WriteLine($"Endpoint has metadata: {metadata}");
+                    // 打印 http 方法
+                    if (metadata is HttpMethodMetadata httpMethodMetadata)
+                    {
+                        Console.WriteLine($"Current Http Method: {httpMethodMetadata.HttpMethods.FirstOrDefault()}");
+                    }
+                }
+
+                return Task.CompletedTask;
             });
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                //endpoints.MapControllers();
+
+                // 将终结点绑定到路由上
+                endpoints.MapGet("/blog/{title}", async context =>
+                    {
+                        var title = context.Request.RouteValues["title"];
+                        await context.Response.WriteAsync($"blog title: {title}");
+                    }).WithDisplayName("Blog")// 修改名称
+                    .WithMetadata("10001");// 修改元数据
             });
+
+            //// 约定路由
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapControllerRoute(
+            //        name: "default",
+            //        pattern: "{controller=Home}/{action=Index}/{id?}");
+            //});
+
+            //// 约定路由也可以同时定义多个
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapControllerRoute(
+            //        name: "default",
+            //        pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            //    endpoints.MapControllerRoute(
+            //        name: "blog",
+            //        pattern: "blog/{*article}",
+            //        defaults: new {controller = "blog", action = "Article"});
+            //});
         }
     }
 }
