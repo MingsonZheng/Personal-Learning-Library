@@ -18,3 +18,8 @@ C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCa
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.pdb
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.genruntimeconfig.cache
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\HelloApi.styles.css
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\netcoreapp3.1\HelloApi.csproj.CopyComplete

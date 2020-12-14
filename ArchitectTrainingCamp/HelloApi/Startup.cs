@@ -2,7 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using HelloApi.Models;
 using HelloApi.Services;
+using HelloApi.Validations;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -40,8 +44,8 @@ namespace HelloApi
             //// 直接注入到容器中
             //services.Configure<MyOption>(Configuration.GetSection("MyOption"));
 
-            services.Configure<MyOption>("Peter", Configuration.GetSection("Peter"));
-            services.Configure<MyOption>("Jack", Configuration.GetSection("Jack"));
+            //services.Configure<MyOption>("Peter", Configuration.GetSection("Peter"));
+            //services.Configure<MyOption>("Jack", Configuration.GetSection("Jack"));
 
             //services.AddOptions<MyOption>().Bind(Configuration.GetSection("MyOption")).ValidateDataAnnotations();
 
@@ -53,9 +57,22 @@ namespace HelloApi
             //    }
             //});
 
-            services.AddHostedService<MyBackgroundService>();
+            //services.AddHostedService<MyBackgroundService>();
 
-            services.AddControllers();
+            services.AddControllers(options =>
+            {
+                options.RespectBrowserAcceptHeader = true; // 浏览器和内容协商
+            })
+            .AddNewtonsoftJson()// 添加基于 Newtonsoft.Json 的 JSON 格式支持
+            .AddXmlSerializerFormatters() // 添加 XML 格式支持
+            .AddFluentValidation();
+
+            // 通过依赖注入的方式（单个添加）
+            services.AddTransient<IValidator<Student>, StudentValidator>();
+
+            //// 通过扫描程序集的方式（全部添加）
+            //services.AddControllers()
+            //    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<StudentValidator>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -85,48 +102,48 @@ namespace HelloApi
             //    await context.Response.WriteAsync("my middleware 2");
             //});
 
-            // 路由和终结点之间的中间件可以拿到终结点的信息
-            app.Use(next => context =>
-            {
-                // 获取当前已经被选择的终结点
-                var endpoint = context.GetEndpoint();
-                if (endpoint is null)
-                {
-                    return Task.CompletedTask;
-                }
-                // 输出终结点的名称
-                Console.WriteLine($"Endpoint: {endpoint.DisplayName}");
-                // 打印终结点匹配的路由
-                if (endpoint is RouteEndpoint routeEndpoint)
-                {
-                    Console.WriteLine("Endpoint has route pattern: " +
-                                      routeEndpoint.RoutePattern.RawText);
-                }
-                // 打印终结点的元数据
-                foreach (var metadata in endpoint.Metadata)
-                {
-                    Console.WriteLine($"Endpoint has metadata: {metadata}");
-                    // 打印 http 方法
-                    if (metadata is HttpMethodMetadata httpMethodMetadata)
-                    {
-                        Console.WriteLine($"Current Http Method: {httpMethodMetadata.HttpMethods.FirstOrDefault()}");
-                    }
-                }
+            //// 路由和终结点之间的中间件可以拿到终结点的信息
+            //app.Use(next => context =>
+            //{
+            //    // 获取当前已经被选择的终结点
+            //    var endpoint = context.GetEndpoint();
+            //    if (endpoint is null)
+            //    {
+            //        return Task.CompletedTask;
+            //    }
+            //    // 输出终结点的名称
+            //    Console.WriteLine($"Endpoint: {endpoint.DisplayName}");
+            //    // 打印终结点匹配的路由
+            //    if (endpoint is RouteEndpoint routeEndpoint)
+            //    {
+            //        Console.WriteLine("Endpoint has route pattern: " +
+            //                          routeEndpoint.RoutePattern.RawText);
+            //    }
+            //    // 打印终结点的元数据
+            //    foreach (var metadata in endpoint.Metadata)
+            //    {
+            //        Console.WriteLine($"Endpoint has metadata: {metadata}");
+            //        // 打印 http 方法
+            //        if (metadata is HttpMethodMetadata httpMethodMetadata)
+            //        {
+            //            Console.WriteLine($"Current Http Method: {httpMethodMetadata.HttpMethods.FirstOrDefault()}");
+            //        }
+            //    }
 
-                return Task.CompletedTask;
-            });
+            //    return Task.CompletedTask;
+            //});
 
             app.UseEndpoints(endpoints =>
             {
-                //endpoints.MapControllers();
+                endpoints.MapControllers();
 
-                // 将终结点绑定到路由上
-                endpoints.MapGet("/blog/{title}", async context =>
-                    {
-                        var title = context.Request.RouteValues["title"];
-                        await context.Response.WriteAsync($"blog title: {title}");
-                    }).WithDisplayName("Blog")// 修改名称
-                    .WithMetadata("10001");// 修改元数据
+                //// 将终结点绑定到路由上
+                //endpoints.MapGet("/blog/{title}", async context =>
+                //    {
+                //        var title = context.Request.RouteValues["title"];
+                //        await context.Response.WriteAsync($"blog title: {title}");
+                //    }).WithDisplayName("Blog")// 修改名称
+                //    .WithMetadata("10001");// 修改元数据
             });
 
             //// 约定路由

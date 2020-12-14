@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "PvPtD3HBp2F6kZZzbvOohLCCYYla/6TTWQIQmaj9kZAqcm4ZUu7lWft5kyhwzeGi4+H1dYZiWGLvUbyU7vbc1Q==",
+  "dgSpecHash": "Q7DbOdZwQwak3xZ1K8m245tIfAbnGLKF6EqY/Frsx2QLb3mMdEoNpyeQyLdm3es0cCVzV8w5UWRxlm2Pibb2vA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MingsonZheng\\source\\repos\\Personal-Learning-Library\\ArchitectTrainingCamp\\HelloApi\\HelloApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.1\\microsoft.aspnetcore.jsonpatch.5.0.1.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.1.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\MingsonZheng\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,6 +2,8 @@
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 using System.Linq;
+using HelloApi.Models;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.Extensions.Options;
 
 namespace HelloApi.Controllers
@@ -47,10 +49,55 @@ namespace HelloApi.Controllers
         //}
 
         [HttpGet]
-        [Route("option")]
-        public IActionResult GetOption()
+        [Route("option/{id}")]
+        public IActionResult GetOption([FromRoute] int id, [FromQuery] string name,[FromHeader] string termId)
         {
-            return Ok(_myOption);
+            //return Ok(_myOption);
+            return Ok(new {id, name, termId});
+        }
+
+        [HttpGet]
+        [Route("option")]
+        public IActionResult GetOption([FromQuery] Dictionary<int, string> dic)
+        {
+            var students = new List<Student>();
+
+            foreach (var item in dic)
+            {
+                students.Add(new Student {Id = item.Key, Name = item.Value});
+            }
+
+            return Ok(students);
+        }
+
+        [HttpPost]
+        [Route("option/from")]
+        public IActionResult CreateOption([FromForm] string name, [FromForm] string id)
+        {
+            return Ok(new {name, id});
+        }
+
+        //[HttpPost]
+        //[Route("option/body")]
+        //public IActionResult CreateOption([FromBody] string name)
+        //{
+        //    return Ok(name);
+        //}
+
+        [HttpPost]
+        [Route("option/body")]
+        public IActionResult CreateOption([FromBody] Student student)
+        {
+            //if (!ModelState.IsValid)
+            //{
+            //    return ValidationProblem();
+            //}
+
+            //return BadRequest();
+
+            //return NotFound();
+
+            return Ok(student);
         }
 
         [HttpGet]

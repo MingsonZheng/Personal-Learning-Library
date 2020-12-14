@@ -20,7 +20,7 @@ namespace HelloApi.Services
             // 只要不停止就一直执行
             while (!stoppingToken.IsCancellationRequested)
             {
-                _logger.LogInformation("date:{0}", DateTime.Now);
+                //_logger.LogInformation("date:{0}", DateTime.Now);
                 await Task.Delay(1000, stoppingToken);
             }
         }
