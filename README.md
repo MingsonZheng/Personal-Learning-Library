@@ -13,6 +13,10 @@
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [模块二 基础巩固 引入](https://www.cnblogs.com/MingsonZheng/p/14100096.html)
+- [模块二 基础巩固 依赖注入](https://www.cnblogs.com/MingsonZheng/p/14131170.html)
+- [模块二 基础巩固 日志](https://www.cnblogs.com/MingsonZheng/p/14141650.html)
+- [模块二 基础巩固 配置](https://www.cnblogs.com/MingsonZheng/p/14146612.html)
+- [模块二 基础巩固 Host](https://www.cnblogs.com/MingsonZheng/p/14152295.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
