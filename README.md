@@ -17,6 +17,8 @@
 - [模块二 基础巩固 日志](https://www.cnblogs.com/MingsonZheng/p/14141650.html)
 - [模块二 基础巩固 配置](https://www.cnblogs.com/MingsonZheng/p/14146612.html)
 - [模块二 基础巩固 Host](https://www.cnblogs.com/MingsonZheng/p/14152295.html)
+- [模块二 基础巩固 REST && RESTful](https://www.cnblogs.com/MingsonZheng/p/14166016.html)
+- [模块二 基础巩固 HTTP管道与中间件](https://www.cnblogs.com/MingsonZheng/p/14170708.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
