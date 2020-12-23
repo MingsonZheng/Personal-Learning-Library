@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -30,6 +31,7 @@ namespace LighterApi.Data
         /// <summary>
         /// 创建时间
         /// </summary>
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public DateTime CreatedAt { get; set; }
 
         /// <summary>
@@ -40,6 +42,7 @@ namespace LighterApi.Data
         /// <summary>
         /// 最后修改时间
         /// </summary>
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public DateTime LastUpdateAt { get; set; }
 
         /// <summary>

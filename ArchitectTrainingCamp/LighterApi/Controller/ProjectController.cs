@@ -31,7 +31,7 @@ namespace LighterApi.Controller
         public async Task<ActionResult<Project>> CreateAsync([FromBody] Project project,
             CancellationToken cancellationToken)
         {
-            project.Id = Guid.NewGuid().ToString();
+            //project.Id = Guid.NewGuid().ToString();
             _lighterDbContext.Projects.Add(project);
             await _lighterDbContext.SaveChangesAsync(cancellationToken);
 

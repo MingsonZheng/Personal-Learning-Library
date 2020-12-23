@@ -31,6 +31,11 @@ namespace LighterApi
                 options.UseMySql(Configuration.GetConnectionString("LighterDbContext"));
             });
 
+            //services.AddDbContextPool<LighterDbContext>(options =>
+            //{
+            //    options.UseMySql(Configuration.GetConnectionString("LighterDbContext"));
+            //});
+
             services.AddControllers()
                 .AddNewtonsoftJson();
         }
