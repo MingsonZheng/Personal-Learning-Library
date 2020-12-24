@@ -5,12 +5,14 @@ using System.Threading.Tasks;
 
 namespace LighterApi.Data.Project
 {
-    public class ProjectGroup : Entity
+    public class SubjectProject : Entity
     {
-        public string Name { get; set; }
-
-        public string ProjectId { get; set; }
+        public string ProjcetId { get; set; }
 
         public Project Project { get; set; }
+
+        public string SubjectId { get; set; }
+
+        public Subject Subject { get; set; }
     }
 }

@@ -27,6 +27,26 @@ namespace LighterApi.Data
         {
             modelBuilder.Entity<Project.Project>().Property(p => p.Id).ValueGeneratedOnAdd();
 
+            //// 一对一
+            //modelBuilder.Entity<Project.ProjectGroup>()
+            //.HasOne<Project.Project>(g => g.Project);
+
+            // 一对多
+            modelBuilder.Entity<Project.ProjectGroup>()
+                .HasOne<Project.Project>(g => g.Project)
+                .WithMany(p => p.Groups);
+
+            // 多对多（两组一对多）
+            modelBuilder.Entity<Project.SubjectProject>()
+                .HasOne<Project.Project>(s => s.Project)
+                .WithMany(p => p.SubjectProjects)
+                .HasForeignKey(s => s.ProjcetId);
+
+            modelBuilder.Entity<Project.SubjectProject>()
+                .HasOne<Project.Subject>(s => s.Subject)
+                .WithMany(p => p.SubjectProjects)
+                .HasForeignKey(s => s.SubjectId);
+
             base.OnModelCreating(modelBuilder);
         }
     }
