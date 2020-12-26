@@ -17,8 +17,6 @@ namespace LighterApi.Data
 
         public DbSet<Project.Member> Members { get; set; }
 
-        public DbSet<Project.Assistant> Assistants { get; set; }
-
         public DbSet<Project.ProjectGroup> ProjectGroups { get; set; }
 
         public DbSet<Project.Task> Tasks { get; set; }
@@ -46,6 +44,9 @@ namespace LighterApi.Data
                 .HasOne<Project.Subject>(s => s.Subject)
                 .WithMany(p => p.SubjectProjects)
                 .HasForeignKey(s => s.SubjectId);
+
+            // 把过滤器添加在所有查询上面
+            modelBuilder.Entity<Entity>().HasQueryFilter(x => x.TenantId == "");
 
             base.OnModelCreating(modelBuilder);
         }

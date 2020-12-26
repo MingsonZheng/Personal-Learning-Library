@@ -18,6 +18,8 @@ namespace LighterApi.Data.Project
 
         public string MemberId { get; set; }
 
+        public Member Member { get; set; }
+
         //public EnumTaskStauts Status { get; set; }
     }
 }

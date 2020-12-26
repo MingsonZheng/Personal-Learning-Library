@@ -37,5 +37,31 @@ namespace LighterApi.Controller
 
             return StatusCode((int) HttpStatusCode.Created, project);
         }
+
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<IActionResult> GetAsync(string id, CancellationToken cancellationToken)
+        {
+            //// 预先加载
+            //var project = await _lighterDbContext.Projects.Include(p => p.Groups)
+            //    .FirstOrDefaultAsync(p => p.Id == id, cancellationToken);
+
+            // 显式加载
+            var project = await _lighterDbContext.Projects.FirstOrDefaultAsync(p => p.Id == id, cancellationToken);
+            await _lighterDbContext.Entry(project).Collection(p => p.Groups).LoadAsync(cancellationToken);
+
+            //// 延迟加载
+            //project.Groups// 引用到属性时才加载
+
+            //foreach (var project in _lighterDbContext.Projects)
+            //{
+            //    project.Groups// 多次查询数据库
+            //}
+
+            //// 一次性查询
+            //var projects = _lighterDbContext.Projects.ToList();
+
+            return Ok(project);
+        }
     }
 }

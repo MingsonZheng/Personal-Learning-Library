@@ -20,7 +20,7 @@ namespace LighterApi.Data.Project
 
         public string PlanId { get; set; }
 
-        public List<ProjectGroup> Groups { get; set; }
+        public virtual ICollection<ProjectGroup> Groups { get; set; }
 
         public List<SubjectProject> SubjectProjects { get; set; }
     }

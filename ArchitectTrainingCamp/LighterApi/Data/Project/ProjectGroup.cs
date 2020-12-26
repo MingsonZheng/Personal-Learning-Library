@@ -12,5 +12,7 @@ namespace LighterApi.Data.Project
         public string ProjectId { get; set; }
 
         public Project Project { get; set; }
+
+        public List<Member> Members { get; set; }
     }
 }

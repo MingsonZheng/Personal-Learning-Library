@@ -11,6 +11,7 @@ namespace LighterApi.Data
         /// <summary>
         /// 主键Id
         /// </summary>
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public string Id { get; set; }
 
         /// <summary>
