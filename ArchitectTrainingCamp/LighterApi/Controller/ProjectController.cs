@@ -65,7 +65,7 @@ namespace LighterApi.Controller
         }
 
         [HttpPut]
-        [Route("{id")]
+        [Route("{id}")]
         public async Task<ActionResult<Project>> UpdateAsync(string id, [FromBody] Project project, CancellationToken cancellationToken)
         {
             var origin = await _lighterDbContext.Projects.FirstOrDefaultAsync(p => p.Id == id, cancellationToken);
