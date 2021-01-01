@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloApi", "HelloApi\HelloApi.csproj", "{C10B2776-C6CB-4252-AF64-36B8E4730990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LighterApi", "LighterApi\LighterApi.csproj", "{667F1CBC-1268-4318-AAB3-7DA1010DDF09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LighterApi", "LighterApi\LighterApi.csproj", "{667F1CBC-1268-4318-AAB3-7DA1010DDF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Domain", "Lighter.Domain\Lighter.Domain.csproj", "{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application.Contracts", "Lighter.Application.Contracts\Lighter.Application.Contracts.csproj", "{3D2CC44B-AC55-448F-B5DE-732706AC9538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application", "Lighter.Application\Lighter.Application.csproj", "{4FF38E84-36F7-4510-9188-A33CE2DC6307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application.Tests", "Lighter.Application.Tests\Lighter.Application.Tests.csproj", "{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{667F1CBC-1268-4318-AAB3-7DA1010DDF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{667F1CBC-1268-4318-AAB3-7DA1010DDF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{667F1CBC-1268-4318-AAB3-7DA1010DDF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2CC44B-AC55-448F-B5DE-732706AC9538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2CC44B-AC55-448F-B5DE-732706AC9538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2CC44B-AC55-448F-B5DE-732706AC9538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2CC44B-AC55-448F-B5DE-732706AC9538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF38E84-36F7-4510-9188-A33CE2DC6307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF38E84-36F7-4510-9188-A33CE2DC6307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF38E84-36F7-4510-9188-A33CE2DC6307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF38E84-36F7-4510-9188-A33CE2DC6307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

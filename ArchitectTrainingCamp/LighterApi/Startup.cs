@@ -7,6 +7,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Lighter.Application;
+using Lighter.Application.Contracts;
 using Microsoft.Extensions.Configuration;
 using LighterApi.Data;
 using Microsoft.EntityFrameworkCore;
@@ -37,6 +39,9 @@ namespace LighterApi
             //{
             //    options.UseMySql(Configuration.GetConnectionString("LighterDbContext"));
             //});
+
+            services.AddScoped<IQuestionService, QuestionService>()
+                .AddScoped<IAnswerService, AnswerService>();
 
             services.AddControllers()
                 .AddNewtonsoftJson(x=>x.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);

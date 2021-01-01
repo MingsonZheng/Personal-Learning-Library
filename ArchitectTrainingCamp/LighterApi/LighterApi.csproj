@@ -6,13 +6,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.9" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.9">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.9" />
-    <PackageReference Include="MongoDB.Driver" Version="2.11.5" />
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lighter.Application.Contracts\Lighter.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Lighter.Application\Lighter.Application.csproj" />
+    <ProjectReference Include="..\Lighter.Domain\Lighter.Domain.csproj" />
   </ItemGroup>
 
 </Project>
