@@ -19,6 +19,14 @@
 - [模块二 基础巩固 Host](https://www.cnblogs.com/MingsonZheng/p/14152295.html)
 - [模块二 基础巩固 REST && RESTful](https://www.cnblogs.com/MingsonZheng/p/14166016.html)
 - [模块二 基础巩固 HTTP管道与中间件](https://www.cnblogs.com/MingsonZheng/p/14170708.html)
+- [模块二 基础巩固 路由与终结点](https://www.cnblogs.com/MingsonZheng/p/14175687.html)
+- [模块二 基础巩固 MVC终结点](https://www.cnblogs.com/MingsonZheng/p/14181830.html)
+- [模块二 基础巩固 MySQL环境准备](https://www.cnblogs.com/MingsonZheng/p/14186670.html)
+- [模块二 基础巩固 EF Core 介绍](https://www.cnblogs.com/MingsonZheng/p/14198549.html)
+- [模块二 基础巩固 EF Core 基础与配置](https://www.cnblogs.com/MingsonZheng/p/14203821.html)
+- [模块二 基础巩固 EF Core 关系](https://www.cnblogs.com/MingsonZheng/p/14209347.html)
+- [模块二 基础巩固 EF Core 查询](https://www.cnblogs.com/MingsonZheng/p/14213770.html)
+- [模块二 基础巩固 EF Core 更新和迁移](https://www.cnblogs.com/MingsonZheng/p/14218950.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
