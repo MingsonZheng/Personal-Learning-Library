@@ -7,13 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloApi", "HelloApi\HelloA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LighterApi", "LighterApi\LighterApi.csproj", "{667F1CBC-1268-4318-AAB3-7DA1010DDF09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Domain", "Lighter.Domain\Lighter.Domain.csproj", "{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lighter.Domain", "Lighter.Domain\Lighter.Domain.csproj", "{55F06A75-74D9-4936-B1CD-18EF7B51E8FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application.Contracts", "Lighter.Application.Contracts\Lighter.Application.Contracts.csproj", "{3D2CC44B-AC55-448F-B5DE-732706AC9538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lighter.Application.Contracts", "Lighter.Application.Contracts\Lighter.Application.Contracts.csproj", "{3D2CC44B-AC55-448F-B5DE-732706AC9538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application", "Lighter.Application\Lighter.Application.csproj", "{4FF38E84-36F7-4510-9188-A33CE2DC6307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lighter.Application", "Lighter.Application\Lighter.Application.csproj", "{4FF38E84-36F7-4510-9188-A33CE2DC6307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighter.Application.Tests", "Lighter.Application.Tests\Lighter.Application.Tests.csproj", "{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lighter.Application.Tests", "Lighter.Application.Tests\Lighter.Application.Tests.csproj", "{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "HelloWorld\Sender.csproj", "{0209211B-6D9A-43E7-A05E-277A4CE9746C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receive\Receiver.csproj", "{6C895599-D691-4FA2-B73E-F41C2642B5D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E6F6E03-11E0-4B44-874E-BAA72DA71BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0209211B-6D9A-43E7-A05E-277A4CE9746C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0209211B-6D9A-43E7-A05E-277A4CE9746C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0209211B-6D9A-43E7-A05E-277A4CE9746C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0209211B-6D9A-43E7-A05E-277A4CE9746C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C895599-D691-4FA2-B73E-F41C2642B5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C895599-D691-4FA2-B73E-F41C2642B5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C895599-D691-4FA2-B73E-F41C2642B5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C895599-D691-4FA2-B73E-F41C2642B5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
