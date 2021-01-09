@@ -14,7 +14,6 @@ C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCa
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.csprojAssemblyReference.cache
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.AssemblyInfoInputs.cache
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.AssemblyInfo.cs
@@ -30,3 +29,4 @@ C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCa
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\ref\HelloApi.dll
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.pdb
 C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.genruntimeconfig.cache
+C:\Users\MingsonZheng\source\repos\Personal-Learning-Library\ArchitectTrainingCamp\HelloApi\obj\Debug\net5.0\HelloApi.csprojAssemblyReference.cache
