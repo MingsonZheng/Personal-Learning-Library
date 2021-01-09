@@ -27,6 +27,15 @@
 - [模块二 基础巩固 EF Core 关系](https://www.cnblogs.com/MingsonZheng/p/14209347.html)
 - [模块二 基础巩固 EF Core 查询](https://www.cnblogs.com/MingsonZheng/p/14213770.html)
 - [模块二 基础巩固 EF Core 更新和迁移](https://www.cnblogs.com/MingsonZheng/p/14218950.html)
+- [模块二 基础巩固 MongoDB 介绍和基础](https://www.cnblogs.com/MingsonZheng/p/14221398.html)
+- [模块二 基础巩固 MongoDB 写入和查询](https://www.cnblogs.com/MingsonZheng/p/14224071.html)
+- [模块二 基础巩固 MongoDB 更新和删除](https://www.cnblogs.com/MingsonZheng/p/14227529.html)
+- [模块二 基础巩固 MongoDB 聚合](https://www.cnblogs.com/MingsonZheng/p/14233212.html)
+- [模块二 基础巩固 MongoDB 问答系统](https://www.cnblogs.com/MingsonZheng/p/14238544.html)
+- [模块二 基础巩固 MongoDB API实现](https://www.cnblogs.com/MingsonZheng/p/14243845.html)
+- [模块二 基础巩固 MongoDB API重构](https://www.cnblogs.com/MingsonZheng/p/14249227.html)
+- [模块二 基础巩固 消息队列 介绍与基础](https://www.cnblogs.com/MingsonZheng/p/14253604.html)
+- [模块二 基础巩固 RabbitMQ HelloWorld](https://www.cnblogs.com/MingsonZheng/p/14256745.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
