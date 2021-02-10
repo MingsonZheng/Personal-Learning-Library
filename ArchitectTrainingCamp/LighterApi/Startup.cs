@@ -6,12 +6,15 @@ using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using Lighter.Application;
 using Lighter.Application.Contracts;
 using Microsoft.Extensions.Configuration;
 using LighterApi.Data;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using MongoDB.Driver;
 using Newtonsoft.Json;
 
@@ -50,6 +53,31 @@ namespace LighterApi
             {
                 return new MongoClient(Configuration.GetConnectionString("LighterMongoServer"));
             });
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(
+                    options => options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true, // 是否验证 Issuer
+                        ValidateAudience = true, // 是否验证 Audience
+                        ValidateLifetime = true, // 是否验证失效时间
+                        ClockSkew = TimeSpan.FromSeconds(30),
+                        ValidateIssuerSigningKey = true, // 是否验证 SecurityKey
+                        ValidAudience = "https://localhost:6001",
+                        ValidIssuer = "https://localhost:6001",
+                        IssuerSigningKey =
+                            new SymmetricSecurityKey(Encoding.UTF8.GetBytes("secret88secret666")) // 拿到 SecurityKey
+                    });
+
+            //services.AddAuthorization(options =>
+            //{
+            //    options.AddPolicy("policyName", policy =>
+            //    {
+            //        policy.RequireRole("role");
+            //        policy.RequireClaim("claim");
+            //        policy.Requirements.Add(new MinimumAgeRequirement());
+            //    });
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -61,6 +89,9 @@ namespace LighterApi
             }
 
             app.UseRouting();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
