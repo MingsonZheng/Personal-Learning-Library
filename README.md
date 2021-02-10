@@ -36,6 +36,13 @@
 - [模块二 基础巩固 MongoDB API重构](https://www.cnblogs.com/MingsonZheng/p/14249227.html)
 - [模块二 基础巩固 消息队列 介绍与基础](https://www.cnblogs.com/MingsonZheng/p/14253604.html)
 - [模块二 基础巩固 RabbitMQ HelloWorld](https://www.cnblogs.com/MingsonZheng/p/14256745.html)
+- [模块二 基础巩固 RabbitMQ 工作队列和交换机](https://www.cnblogs.com/MingsonZheng/p/14260144.html)
+- [模块二 基础巩固 RabbitMQ 业务场景详解](https://www.cnblogs.com/MingsonZheng/p/14264537.html)
+- [模块二 基础巩固 RabbitMQ Masstransit 异常处理](https://www.cnblogs.com/MingsonZheng/p/14280129.html)
+- [模块二 基础巩固 敏捷开发](https://www.cnblogs.com/MingsonZheng/p/14284703.html)
+- [模块二 基础巩固 Scrum 简介](https://www.cnblogs.com/MingsonZheng/p/14284812.html)
+- [模块二 基础巩固 Scrum 核心](https://www.cnblogs.com/MingsonZheng/p/14290878.html)
+- [模块二 基础巩固 Scrum 团队](https://www.cnblogs.com/MingsonZheng/p/14300665.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
