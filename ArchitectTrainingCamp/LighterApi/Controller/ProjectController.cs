@@ -34,6 +34,8 @@ namespace LighterApi.Controller
             return await _lighterDbContext.Projects.Include(p => p.Groups).ToListAsync(cancellationToken);
         }
 
+        [Authorize(Roles = "Administrators, Mentor")]
+        [HttpPost]
         public async Task<ActionResult<Project>> CreateAsync([FromBody] Project project,
             CancellationToken cancellationToken)
         {

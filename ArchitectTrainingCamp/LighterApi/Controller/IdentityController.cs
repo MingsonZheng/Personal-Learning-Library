@@ -24,7 +24,11 @@ namespace LighterApi.Controller
             var token = new JwtSecurityToken(
                 issuer: "https://localhost:6001",
                 audience: "https://localhost:6001",
-                new List<Claim> {new Claim("name", "mingson")},
+                new List<Claim>
+                {
+                    new Claim(ClaimTypes.Role, "Administrators"),
+                    new Claim("name", "mingson")
+                },
                 expires: DateTime.Now.AddMinutes(120),
                 signingCredentials: credentials);
 
