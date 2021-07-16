@@ -1,5 +1,6 @@
 # 个人学习资料存储仓库
 
+- [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
 - [ASP.NET Core Distributed Project Combat（ASP.NET Core分布式项目实战）](https://www.cnblogs.com/MingsonZheng/p/12617119.html)
@@ -9,6 +10,9 @@
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
+
+## Kubernetes全栈架构师
+- [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
@@ -44,6 +48,8 @@
 - [模块二 基础巩固 Scrum 核心](https://www.cnblogs.com/MingsonZheng/p/14290878.html)
 - [模块二 基础巩固 Scrum 团队](https://www.cnblogs.com/MingsonZheng/p/14300665.html)
 - [模块二 基础巩固 安全](https://www.cnblogs.com/MingsonZheng/p/14433627.html)
+- [Identity Server](https://www.cnblogs.com/MingsonZheng/p/14961479.html)
+- [设计原则与模式](https://www.cnblogs.com/MingsonZheng/p/14968072.html)
 
 ## DotNetCoreDevelopmentActualCombat（.NET Core开发实战）
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
