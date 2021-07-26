@@ -1,4 +1,4 @@
-# 个人学习资料存储仓库
+# 个人学习笔记仓库
 
 - [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
