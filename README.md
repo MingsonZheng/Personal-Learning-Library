@@ -13,6 +13,10 @@
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
+- [二进制高可用安装k8s集群部署篇](https://www.cnblogs.com/MingsonZheng/p/15028406.html)
+- [二进制高可用安装k8s集群扩展篇](https://www.cnblogs.com/MingsonZheng/p/15032951.html)
+- [Docker基础](https://www.cnblogs.com/MingsonZheng/p/15057550.html)
+- [基本概念](https://www.cnblogs.com/MingsonZheng/p/15059377.html)
 
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
