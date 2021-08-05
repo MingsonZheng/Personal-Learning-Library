@@ -1,5 +1,7 @@
 # 个人学习笔记仓库
 
+- [2021 ASP.NET Core 开发者路线图](https://www.cnblogs.com/MingsonZheng/p/15060778.html)
+- [C#版本与.NET版本对应关系以及各版本的特性](https://www.cnblogs.com/MingsonZheng/p/11273700.html)
 - [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
@@ -17,6 +19,7 @@
 - [二进制高可用安装k8s集群扩展篇](https://www.cnblogs.com/MingsonZheng/p/15032951.html)
 - [Docker基础](https://www.cnblogs.com/MingsonZheng/p/15057550.html)
 - [基本概念](https://www.cnblogs.com/MingsonZheng/p/15059377.html)
+- [资源调度上](https://www.cnblogs.com/MingsonZheng/p/15088008.html)
 
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
