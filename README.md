@@ -20,6 +20,7 @@
 - [Docker基础](https://www.cnblogs.com/MingsonZheng/p/15057550.html)
 - [基本概念](https://www.cnblogs.com/MingsonZheng/p/15059377.html)
 - [资源调度上](https://www.cnblogs.com/MingsonZheng/p/15088008.html)
+- [资源调度下](https://www.cnblogs.com/MingsonZheng/p/15377751.html)
 
 ## ArchitectTrainingCamp（.NET 云原生架构师训练营）
 - [模块一 架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
