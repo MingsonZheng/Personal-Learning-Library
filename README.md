@@ -2,6 +2,7 @@
 
 - [2021 ASP.NET Core 开发者路线图](https://www.cnblogs.com/MingsonZheng/p/15060778.html)
 - [C#版本与.NET版本对应关系以及各版本的特性](https://www.cnblogs.com/MingsonZheng/p/11273700.html)
+- [Go语言核心36讲](https://www.cnblogs.com/MingsonZheng/p/15391268.html)
 - [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
@@ -12,6 +13,19 @@
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
+
+## Go语言核心36讲
+- [导读](https://www.cnblogs.com/MingsonZheng/p/15391268.html)
+- [01 | 工作区和GOPATH](https://www.cnblogs.com/MingsonZheng/p/15395176.html)
+- [02 | 命令源码文件](https://www.cnblogs.com/MingsonZheng/p/15400265.html)
+- [03 | 库源码文件](https://www.cnblogs.com/MingsonZheng/p/15404818.html)
+- [04 | 程序实体的那些事儿（上）](https://www.cnblogs.com/MingsonZheng/p/15409135.html)
+- [05 | 程序实体的那些事儿（中）](https://www.cnblogs.com/MingsonZheng/p/15415650.html)
+- [06 | 程序实体的那些事儿 （下）](https://www.cnblogs.com/MingsonZheng/p/15418762.html)
+- [07 | 数组和切片](https://www.cnblogs.com/MingsonZheng/p/15422332.html)
+- [08 | container包中的那些容器](https://www.cnblogs.com/MingsonZheng/p/15426809.html)
+- [09 | 字典的操作和约束](https://www.cnblogs.com/MingsonZheng/p/15430610.html)
+- [10 | 通道的基本操作](https://www.cnblogs.com/MingsonZheng/p/15435267.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
