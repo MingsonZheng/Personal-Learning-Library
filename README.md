@@ -26,6 +26,15 @@
 - [08 | container包中的那些容器](https://www.cnblogs.com/MingsonZheng/p/15426809.html)
 - [09 | 字典的操作和约束](https://www.cnblogs.com/MingsonZheng/p/15430610.html)
 - [10 | 通道的基本操作](https://www.cnblogs.com/MingsonZheng/p/15435267.html)
+- [11 | 通道的高级玩法](https://www.cnblogs.com/MingsonZheng/p/15440968.html)
+- [12 | 使用函数的正确姿势](https://www.cnblogs.com/MingsonZheng/p/15455817.html)
+- [13 | 结构体及其方法的使用法门](https://www.cnblogs.com/MingsonZheng/p/15463777.html)
+- [14 | 接口类型的合理运用](https://www.cnblogs.com/MingsonZheng/p/15473544.html)
+- [15 | 关于指针的有限操作](https://www.cnblogs.com/MingsonZheng/p/15478067.html)
+- [16 | go语句及其执行规则（上）](https://www.cnblogs.com/MingsonZheng/p/15484755.html)
+- [17 | go语句及其执行规则（下）](https://www.cnblogs.com/MingsonZheng/p/15491690.html)
+- [18 | if语句、for语句和switch语句](https://www.cnblogs.com/MingsonZheng/p/15501526.html)
+- [19 | 错误处理（上）](https://www.cnblogs.com/MingsonZheng/p/15506103.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
