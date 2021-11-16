@@ -36,6 +36,14 @@
 - [18 | if语句、for语句和switch语句](https://www.cnblogs.com/MingsonZheng/p/15501526.html)
 - [19 | 错误处理（上）](https://www.cnblogs.com/MingsonZheng/p/15506103.html)
 - [20 | 错误处理 （下）](https://www.cnblogs.com/MingsonZheng/p/15519287.html)
+- [21 | panic函数、recover函数以及defer语句 （上）](https://www.cnblogs.com/MingsonZheng/p/15526071.html)
+- [22 | panic函数、recover函数以及defer语句（下）](https://www.cnblogs.com/MingsonZheng/p/15531446.html)
+- [23 | 测试的基本规则和流程 （上）](https://www.cnblogs.com/MingsonZheng/p/15536396.html)
+- [24 | 测试的基本规则和流程（下）](https://www.cnblogs.com/MingsonZheng/p/15541659.html)
+- [25 | 更多的测试手法](https://www.cnblogs.com/MingsonZheng/p/15546955.html)
+- [26 | sync.Mutex与sync.RWMutex](https://www.cnblogs.com/MingsonZheng/p/15550722.html)
+- [27 | 条件变量sync.Cond （上）](https://www.cnblogs.com/MingsonZheng/p/15559591.html)
+- [28 | 条件变量sync.Cond （下）](https://www.cnblogs.com/MingsonZheng/p/15564314.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
