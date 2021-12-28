@@ -118,6 +118,7 @@
 - [设计原则与模式](https://www.cnblogs.com/MingsonZheng/p/14968072.html)
 - [建立系统观](https://www.cnblogs.com/MingsonZheng/p/15713140.html)
 - [系统架构](https://www.cnblogs.com/MingsonZheng/p/15717715.html)
+- [对象过程建模](https://www.cnblogs.com/MingsonZheng/p/15725780.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
@@ -178,6 +179,8 @@
 - [46 | 访问网络服务](https://www.cnblogs.com/MingsonZheng/p/15669706.html)
 - [47 | 基于HTTP协议的网络服务](https://www.cnblogs.com/MingsonZheng/p/15674227.html)
 - [48 | 程序性能分析基础（上）](https://www.cnblogs.com/MingsonZheng/p/15708776.html)
+- [49 | 程序性能分析基础（下）](https://www.cnblogs.com/MingsonZheng/p/15721637.html)
+- [新年彩蛋 | 完整版思考题答案](https://www.cnblogs.com/MingsonZheng/p/15738129.html)
 
 ## DesignPattern（设计模式）
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
