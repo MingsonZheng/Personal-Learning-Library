@@ -119,6 +119,7 @@
 - [建立系统观](https://www.cnblogs.com/MingsonZheng/p/15713140.html)
 - [系统架构](https://www.cnblogs.com/MingsonZheng/p/15717715.html)
 - [对象过程建模](https://www.cnblogs.com/MingsonZheng/p/15725780.html)
+- [RGCA 四步架构法](https://www.cnblogs.com/MingsonZheng/p/15747053.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
