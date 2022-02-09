@@ -120,6 +120,13 @@
 - [系统架构](https://www.cnblogs.com/MingsonZheng/p/15717715.html)
 - [对象过程建模](https://www.cnblogs.com/MingsonZheng/p/15725780.html)
 - [RGCA 四步架构法](https://www.cnblogs.com/MingsonZheng/p/15747053.html)
+- [ASP .NET Core 整体概念推演](https://www.cnblogs.com/MingsonZheng/p/15751023.html)
+- [设计原则&&设计模式](https://www.cnblogs.com/MingsonZheng/p/15764162.html)
+- [责任链模式](https://www.cnblogs.com/MingsonZheng/p/15768621.html)
+- [组合模式](https://www.cnblogs.com/MingsonZheng/p/15773297.html)
+- [模板方法 && 建造者](https://www.cnblogs.com/MingsonZheng/p/15777078.html)
+- [KestrelServer源码分析](https://www.cnblogs.com/MingsonZheng/p/15815773.html)
+- [权限系统 RGCA 架构设计](https://www.cnblogs.com/MingsonZheng/p/15824666.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
