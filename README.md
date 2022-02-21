@@ -133,6 +133,7 @@
 - [权限系统 代码实现 EntityAccess](https://www.cnblogs.com/MingsonZheng/p/15902528.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
 - [权限系统 代码实现 Store.EntityFramework](https://www.cnblogs.com/MingsonZheng/p/15906650.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
 - [权限系统 代码实现 Identity](https://www.cnblogs.com/MingsonZheng/p/15911606.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
+- [权限系统 代码实现 WebApplication](https://www.cnblogs.com/MingsonZheng/p/15916026.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
 
 ## ML.NET 官方教程
 - [ML.NET API 入门](https://github.com/MingsonZheng/ML.NET/tree/main/myMLApp)
