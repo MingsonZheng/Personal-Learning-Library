@@ -8,11 +8,11 @@
 - [DotNetCoreDevelopmentActualCombat（.NET Core开发实战）](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
 - [ArchitectTrainingCamp（.NET 云原生架构师训练营）](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [ML.NET 官方教程](https://github.com/MingsonZheng/ML.NET)
+- [Translate（译）]（https://www.cnblogs.com/MingsonZheng/p/12038061.html）
 - [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [Go语言核心36讲](https://www.cnblogs.com/MingsonZheng/p/15391268.html)
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
-- [Github](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Github)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
 
 ## ASP.NET Core Quick Start（ASP.NET Core快速入门）
@@ -143,6 +143,9 @@
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
+
+## - Translate（译）
+- [【译】Visual Studio 2019 中 WPF & UWP 的 XAML 开发工具新特性](https://www.cnblogs.com/MingsonZheng/p/12038061.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
