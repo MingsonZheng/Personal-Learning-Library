@@ -144,7 +144,7 @@
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
 
-## - Translate（译）
+## Translate（译）
 - [【译】Visual Studio 2019 中 WPF & UWP 的 XAML 开发工具新特性](https://www.cnblogs.com/MingsonZheng/p/12038061.html)
 
 ## Kubernetes全栈架构师
