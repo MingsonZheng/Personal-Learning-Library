@@ -147,6 +147,7 @@
 ## Translate（译）
 - [【译】Visual Studio 2019 中 WPF & UWP 的 XAML 开发工具新特性](https://www.cnblogs.com/MingsonZheng/p/12038061.html)
 - [【译】在 ASP.NET 和 ASP.NET Core 之间共享代码](https://www.cnblogs.com/MingsonZheng/p/15966106.html)
+- [【译】C# 11 特性的早期预览](https://www.cnblogs.com/MingsonZheng/p/15971203.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
