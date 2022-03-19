@@ -149,6 +149,7 @@
 - [【译】在 ASP.NET 和 ASP.NET Core 之间共享代码](https://www.cnblogs.com/MingsonZheng/p/15966106.html)
 - [【译】C# 11 特性的早期预览](https://www.cnblogs.com/MingsonZheng/p/15971203.html)
 - [【译】.NET 7 预览版 1 中的 ASP.NET Core 更新 ](https://www.cnblogs.com/MingsonZheng/p/15982483.html)
+- [【译】.NET 6 网络改进](https://www.cnblogs.com/MingsonZheng/p/16014634.html)
 
 ## Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
