@@ -11,6 +11,7 @@
 - [Translate（译）](https://www.cnblogs.com/MingsonZheng/p/12038061.html)
 - [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [Go语言核心36讲](https://www.cnblogs.com/MingsonZheng/p/15391268.html)
+- [CloudNative NB](https://www.cnblogs.com/MingsonZheng/category/2014728.html)
 - [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
 - [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
 - [Samples](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/Samples)
@@ -212,6 +213,10 @@
 - [48 | 程序性能分析基础（上）](https://www.cnblogs.com/MingsonZheng/p/15708776.html)
 - [49 | 程序性能分析基础（下）](https://www.cnblogs.com/MingsonZheng/p/15721637.html)
 - [新年彩蛋 | 完整版思考题答案](https://www.cnblogs.com/MingsonZheng/p/15738129.html)
+
+## CloudNative NB
+- [华为云云原生王者之路钻石集训营](https://www.cnblogs.com/MingsonZheng/p/15145359.html)
+- [API 工程化分享](https://www.cnblogs.com/MingsonZheng/p/16273237.html)
 
 ## DesignPattern（设计模式）
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
