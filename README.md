@@ -45,7 +45,6 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/ML.NET)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
-- [🛻王争的算法训练营](https://www.cnblogs.com/MingsonZheng/category/2162578.html)
 
 ---
 
@@ -431,12 +430,6 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
-
-#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
-## 🛻王争的算法训练营
-- [第一讲 复杂度分析](https://www.cnblogs.com/MingsonZheng/p/16282674.html)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
