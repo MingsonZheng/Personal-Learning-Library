@@ -1,32 +1,50 @@
-# 个人学习笔记仓库
+# 个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺
 
-- [DotNet NB](https://www.cnblogs.com/MingsonZheng/category/1567059.html)
-- [年终回顾](https://www.cnblogs.com/MingsonZheng/category/1623874.html)
-- [ASP.NET Core 快速入门](https://www.cnblogs.com/MingsonZheng/category/1645694.html)
-- [.NET Core on K8S 快速入门](https://www.cnblogs.com/MingsonZheng/category/2162767.html)
-- [每天听道题](https://github.com/MingsonZheng/ListenOneQuestionEveryDay)
-- [说透中台](https://www.cnblogs.com/MingsonZheng/category/1913902.html)
-- [译](https://www.cnblogs.com/MingsonZheng/category/2118834.html)
-- [.NET Conf 2019](https://www.cnblogs.com/MingsonZheng/category/1617857.html)
-- [读书笔记](https://www.cnblogs.com/MingsonZheng/category/1637638.html)
-- [.NET Core开发实战](https://www.cnblogs.com/MingsonZheng/category/1647060.html)
-- [ASP.NET Core分布式项目实战](https://www.cnblogs.com/MingsonZheng/category/1687188.html)
-- [.NET 云原生架构师训练营](https://www.cnblogs.com/MingsonZheng/category/1861600.html)
-- [DesignPattern（设计模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
-- [LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
-- [DDD实战课](https://www.cnblogs.com/MingsonZheng/category/1945985.html)
-- [Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/category/1998214.html)
-- [CloudNative NB](https://www.cnblogs.com/MingsonZheng/category/2014728.html)
-- [Go语言核心36讲](https://www.cnblogs.com/MingsonZheng/category/2043205.html)
-- [CSharpInDepth](https://github.com/MingsonZheng/CSharpInDepth)
-- [GolangIMSystem](https://github.com/MingsonZheng/GolangIMSystem)
-- [DaprDemo](https://github.com/MingsonZheng/DaprDemo)
-- [无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
-- [ML.NET 官方教程](https://github.com/MingsonZheng/ML.NET)
-- [ReactDemo](https://github.com/MingsonZheng/ReactDemo)
-- [王争的算法训练营](https://www.cnblogs.com/MingsonZheng/category/2162578.html)
+> 概述：本仓库汇总了个人所有学习笔记，希望可以供大家参考学习🔥
 
-## DotNet NB
+如果笔记中有什么不足的地方，欢迎大家留下宝贵的建议💖
+如果对大家有帮助的话，希望大家为这个项目可以点上一颗星星⭐
+
+## 欢迎关注我一起交流学习，共同进步😊
+
+DotNet NB：.NET Core 技术学习分享，社区热点分享，专注为 .NET 社区做贡献，愿我们互相交流学习，共同推动社区发展
+
+![DotNet NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016160955%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+
+CloudNative NB：云原生技术学习分享，社区热点分享，专注为云原生社区做贡献，愿我们互相交流学习，共同推动社区发展
+
+![CloudNative NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016161000%E4%BA%8C%E7%BB%B4%E7%A0%812.jpg)
+
+## 🔍目录(善用Ctrl+F)
+- [🐮DotNet NB](https://www.cnblogs.com/MingsonZheng/category/1567059.html)
+- [🏷️年终回顾](https://www.cnblogs.com/MingsonZheng/category/1623874.html)
+- [🎁ASP.NET Core 快速入门](https://www.cnblogs.com/MingsonZheng/category/1645694.html)
+- [🧱.NET Core on K8S 快速入门](https://www.cnblogs.com/MingsonZheng/category/2162767.html)
+- [🧮每天听道题](https://github.com/MingsonZheng/ListenOneQuestionEveryDay)
+- [🍇说透中台](https://www.cnblogs.com/MingsonZheng/category/1913902.html)
+- [🍉译](https://www.cnblogs.com/MingsonZheng/category/2118834.html)
+- [💡.NET Conf 2019](https://www.cnblogs.com/MingsonZheng/category/1617857.html)
+- [💻读书笔记](https://www.cnblogs.com/MingsonZheng/category/1637638.html)
+- [🛰️.NET Core开发实战](https://www.cnblogs.com/MingsonZheng/category/1647060.html)
+- [☁️ASP.NET Core分布式项目实战](https://www.cnblogs.com/MingsonZheng/category/1687188.html)
+- [🧰.NET 云原生架构师训练营](https://www.cnblogs.com/MingsonZheng/category/1861600.html)
+- [🌍设计模式](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern)
+- [🧲LeetCode](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode)
+- [🙇DDD实战课](https://www.cnblogs.com/MingsonZheng/category/1945985.html)
+- [🧭Kubernetes全栈架构师](https://www.cnblogs.com/MingsonZheng/category/1998214.html)
+- [🍺CloudNative NB](https://www.cnblogs.com/MingsonZheng/category/2014728.html)
+- [✈️Go语言核心36讲](https://www.cnblogs.com/MingsonZheng/category/2043205.html)
+- [🔋CSharpInDepth](https://github.com/MingsonZheng/CSharpInDepth)
+- [📚GolangIMSystem](https://github.com/MingsonZheng/GolangIMSystem)
+- [📰DaprDemo](https://github.com/MingsonZheng/DaprDemo)
+- [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
+- [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/ML.NET)
+- [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
+- [🛻王争的算法训练营](https://www.cnblogs.com/MingsonZheng/category/2162578.html)
+
+---
+
+### 🐮DotNet NB
 - [C# DynamicObject 动态对象](https://www.cnblogs.com/MingsonZheng/p/11273673.html)
 - [C#版本与.NET版本对应关系以及各版本的特性](https://www.cnblogs.com/MingsonZheng/p/11273700.html)
 - [C# lock 语法糖实现原理--《.NET Core 底层入门》之自旋锁，互斥锁，混合锁，读写锁](https://www.cnblogs.com/MingsonZheng/p/12547288.html)
@@ -34,12 +52,18 @@
 - [欢迎加入 DotNet NB 交流学习群](https://www.cnblogs.com/MingsonZheng/p/15060778.html)
 - [我的微软 MVP 之路](https://www.cnblogs.com/MingsonZheng/p/16183815.html)
 
-## 年终回顾
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🏷️年终回顾
 - [路漫漫其修远兮，吾将上下而求索--2019OKR规划](https://www.cnblogs.com/MingsonZheng/p/11273677.html)
 - [2019年终回顾：路漫漫其修远兮，吾将上下而求索](https://www.cnblogs.com/MingsonZheng/p/12122268.html)
 - [2020年终回顾：时间会回答成长，成长会回答梦想](https://www.cnblogs.com/MingsonZheng/p/14164034.html)
 
-## ASP.NET Core快速入门
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🎁ASP.NET Core 快速入门]
 - [第1章：介绍与引入](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
 - [第2章：配置管理](https://www.cnblogs.com/MingsonZheng/p/11273689.html)
 - [第3章：依赖注入](https://www.cnblogs.com/MingsonZheng/p/11273694.html)
@@ -47,17 +71,26 @@
 - [第5章：认证与授权](https://www.cnblogs.com/MingsonZheng/p/11614686.html)
 - [第6章：ASP.NET Core MVC](https://www.cnblogs.com/MingsonZheng/p/11623815.html)
 
-## .NET Core on K8S快速入门
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🧱.NET Core on K8S快速入门
 - [.NET Core on K8S快速入门](https://www.cnblogs.com/MingsonZheng/p/11273685.html)
 
-## 说透中台
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🍇说透中台
 - [说透中台（概念篇）](https://www.cnblogs.com/MingsonZheng/p/12005968.html)
 - [说透中台（落地篇一）](https://www.cnblogs.com/MingsonZheng/p/12013892.html)
 - [说透中台（落地篇二）](https://www.cnblogs.com/MingsonZheng/p/12057616.html)
 - [说透中台（落地篇三）](https://www.cnblogs.com/MingsonZheng/p/12064515.html)
 - [说透中台（答疑篇）](https://www.cnblogs.com/MingsonZheng/p/12070675.html)
 
-## 译
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🍉译
 - [【译】Visual Studio 2019 中 WPF & UWP 的 XAML 开发工具新特性](https://www.cnblogs.com/MingsonZheng/p/12038061.html)
 - [【译】在 ASP.NET 和 ASP.NET Core 之间共享代码](https://www.cnblogs.com/MingsonZheng/p/15966106.html)
 - [【译】C# 11 特性的早期预览](https://www.cnblogs.com/MingsonZheng/p/15971203.html)
@@ -65,7 +98,10 @@
 - [【译】ASP.NET Core 6 中的性能改进](https://www.cnblogs.com/MingsonZheng/p/15991741.html)
 - [【译】.NET 6 网络改进](https://www.cnblogs.com/MingsonZheng/p/16014634.html)
 
-## .NET Conf 2019
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 💡.NET Conf 2019
 - [ASP.NET Core基于K8S的微服务电商案例实践](https://www.cnblogs.com/MingsonZheng/p/12075597.html)
 - [用ASP.NET Core构建可检测的高可用服务](https://www.cnblogs.com/MingsonZheng/p/12078812.html)
 - [.Net Core + 微信赋能企业级智能客服系统](https://www.cnblogs.com/MingsonZheng/p/12081767.html)
@@ -78,7 +114,10 @@
 - [深入浅出 Application Insights](https://www.cnblogs.com/MingsonZheng/p/12117267.html)
 - [.NET 大数据实时计算](https://www.cnblogs.com/MingsonZheng/p/12169267.html)
 
-## 读书笔记
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 💻读书笔记
 - [《ASP.NET Core 微服务实战》（第1章 、第2章）](https://www.cnblogs.com/MingsonZheng/p/12231756.html)
 - [《ASP.NET Core 微服务实战》（第3章）](https://www.cnblogs.com/MingsonZheng/p/12258148.html)
 - [《ASP.NET Core 微服务实战》（第4章）](https://www.cnblogs.com/MingsonZheng/p/12262288.html)
@@ -113,7 +152,10 @@
 - [《ASP.ENT Core 与 RESTful API 开发实战》（第9章）（下）](https://www.cnblogs.com/MingsonZheng/p/13550106.html)
 - [《ASP.ENT Core 与 RESTful API 开发实战》（第10章）](https://www.cnblogs.com/MingsonZheng/p/13618677.html)
 
-## .NET Core开发实战
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🛰.NET Core开发实战
 - [第1课：课程介绍](https://www.cnblogs.com/MingsonZheng/p/12305981.html)
 - [第2课：内容综述](https://www.cnblogs.com/MingsonZheng/p/12310375.html)
 - [第3课：.NET Core的现状、未来以及环境搭建](https://www.cnblogs.com/MingsonZheng/p/12315440.html)
@@ -161,7 +203,10 @@
 - [第34课：MediatR：轻松实现命令查询职责分离模式（CQRS）（下）](https://www.cnblogs.com/MingsonZheng/p/12596100.html)
 - [第35课：MediatR：让领域事件处理更加优雅](https://www.cnblogs.com/MingsonZheng/p/12609776.html)
 
-## ASP.NET Core分布式项目实战
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## ☁️ASP.NET Core分布式项目实战
 - [课程介绍，MVP，瀑布与敏捷](https://www.cnblogs.com/MingsonZheng/p/12617119.html)
 - [业务介绍，架构设计，oAuth2，IdentityServer4](https://www.cnblogs.com/MingsonZheng/p/12630155.html)
 - [客户端集成IdentityServer](https://www.cnblogs.com/MingsonZheng/p/12640078.html)
@@ -179,7 +224,10 @@
 - [Consent 代码重构](https://www.cnblogs.com/MingsonZheng/p/13034933.html)
 - [集成ASP.NETCore Identity](https://www.cnblogs.com/MingsonZheng/p/13128823.html)
 
-## .NET 云原生架构师训练营
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🧰.NET 云原生架构师训练营
 - [架构师与云原生](https://www.cnblogs.com/MingsonZheng/p/13805857.html)
 - [引入](https://www.cnblogs.com/MingsonZheng/p/14100096.html)
 - [依赖注入](https://www.cnblogs.com/MingsonZheng/p/14131170.html)
@@ -236,7 +284,10 @@
 - [权限系统 系统演示 ActionAccess](https://www.cnblogs.com/MingsonZheng/p/15925035.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
 - [权限系统 系统演示 EntityAccess](https://www.cnblogs.com/MingsonZheng/p/15929732.html)--[dotnetnb.security](https://github.com/MingsonZheng/dotnetnb.security)
 
-## 设计模式
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🌍设计模式
 - [SingletonPattern（单例模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/SingletonPattern/Program.cs)
 - [FactoryPattern（工厂模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/FactoryPattern/Program.cs)
 - [TemplateMethodPattern（模板方法模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/TemplateMethodPattern/Program.cs)
@@ -256,7 +307,10 @@
 - [MementoPattern（备忘录模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/MementoPattern/Program.cs)
 - [VisitorPattern（访问者模式）](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/DesignPattern/VisitorPattern/Program.cs)
 
-## LeetCode
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🧲LeetCode
 - [001.两数之和](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/Program.cs)
 - [002.两数相加](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/Program.cs)
 - [003.无重复字符的最长子串](https://github.com/MINGSON666/Personal-Learning-Library/tree/main/LeetCode/003.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/Program.cs)
@@ -282,11 +336,17 @@
 - [023. 合并K个排序链表](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/023.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/Program.cs)
 - [024. 两两交换链表中的节点](https://github.com/MINGSON666/Personal-Learning-Library/blob/main/LeetCode/024.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9/Program.cs)
 
-## DDD实战课
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🙇DDD实战课
 - [DDD实战课](https://www.cnblogs.com/MingsonZheng/p/14521710.html)
 - [DDD实战课（实战篇）](https://www.cnblogs.com/MingsonZheng/p/14904628.html)
 
-## Kubernetes全栈架构师
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🧭Kubernetes全栈架构师
 - [Kubeadm高可用安装k8s集群](https://www.cnblogs.com/MingsonZheng/p/14993120.html)
 - [二进制高可用安装k8s集群部署篇](https://www.cnblogs.com/MingsonZheng/p/15028406.html)
 - [二进制高可用安装k8s集群扩展篇](https://www.cnblogs.com/MingsonZheng/p/15032951.html)
@@ -295,11 +355,17 @@
 - [资源调度上](https://www.cnblogs.com/MingsonZheng/p/15088008.html)
 - [资源调度下](https://www.cnblogs.com/MingsonZheng/p/15377751.html)
 
-## CloudNative NB
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🍺CloudNative NB
 - [华为云云原生王者之路钻石集训营](https://www.cnblogs.com/MingsonZheng/p/15145359.html)
 - [API 工程化分享](https://www.cnblogs.com/MingsonZheng/p/16273237.html)
 
-## Go语言核心36讲
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## ✈️Go语言核心36讲
 - [导读](https://www.cnblogs.com/MingsonZheng/p/15391268.html)
 - [01 | 工作区和GOPATH](https://www.cnblogs.com/MingsonZheng/p/15395176.html)
 - [02 | 命令源码文件](https://www.cnblogs.com/MingsonZheng/p/15400265.html)
@@ -352,11 +418,20 @@
 - [49 | 程序性能分析基础（下）](https://www.cnblogs.com/MingsonZheng/p/15721637.html)
 - [新年彩蛋 | 完整版思考题答案](https://www.cnblogs.com/MingsonZheng/p/15738129.html)
 
-## ML.NET 官方教程
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🏖️ML.NET 官方教程
 - [ML.NET API 入门](https://github.com/MingsonZheng/ML.NET/tree/main/myMLApp)
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
 
-## 王争的算法训练营
--[第一讲 复杂度分析](https://www.cnblogs.com/MingsonZheng/p/16282674.html)
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🛻王争的算法训练营
+- [第一讲 复杂度分析](https://www.cnblogs.com/MingsonZheng/p/16282674.html)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
