@@ -8,11 +8,15 @@
 
 ## 欢迎关注我一起交流学习，共同进步😊
 
-DotNet NB：.NET Core 技术学习分享，社区热点分享，专注为 .NET 社区做贡献，愿我们互相交流学习，共同推动社区发展
+DotNet NB：.NET Core 技术学习分享，社区热点分享
+
+专注为 .NET 社区做贡献，愿我们互相交流学习，共同推动社区发展
 
 ![DotNet NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016160955%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
-CloudNative NB：云原生技术学习分享，社区热点分享，专注为云原生社区做贡献，愿我们互相交流学习，共同推动社区发展
+CloudNative NB：云原生技术学习分享，社区热点分享
+
+专注为云原生社区做贡献，愿我们互相交流学习，共同推动社区发展
 
 ![CloudNative NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016161000%E4%BA%8C%E7%BB%B4%E7%A0%812.jpg)
 
