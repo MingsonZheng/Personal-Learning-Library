@@ -45,7 +45,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
-- [🙉 gitbook]()
+- [🙉 gitbook](https://github.com/MingsonZheng/Personal-Learning-Library/blob/main/README.md#-gitbook)
 
 ---
 
