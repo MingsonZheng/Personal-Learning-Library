@@ -78,7 +78,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
-## 🎁ASP.NET Core 快速入门]
+## 🎁ASP.NET Core 快速入门
 - [第1章：介绍与引入](https://www.cnblogs.com/MingsonZheng/p/11273688.html)
 - [第2章：配置管理](https://www.cnblogs.com/MingsonZheng/p/11273689.html)
 - [第3章：依赖注入](https://www.cnblogs.com/MingsonZheng/p/11273694.html)
