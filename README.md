@@ -21,6 +21,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 ![CloudNative NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016161000%E4%BA%8C%E7%BB%B4%E7%A0%812.jpg)
 
 ## 🔍目录(善用Ctrl+F)
+- [🙉 gitbook](https://github.com/MingsonZheng/Personal-Learning-Library/blob/main/README.md#-gitbook)
 - [🐮DotNet NB](https://github.com/MingsonZheng/Personal-Learning-Library#dotnet-nb)
 - [🏷️年终回顾](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8F%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE)
 - [🎁ASP.NET Core 快速入门](https://github.com/MingsonZheng/Personal-Learning-Library#aspnet-core-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8)
@@ -45,8 +46,17 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
-- [🙉 gitbook](https://github.com/MingsonZheng/Personal-Learning-Library/blob/main/README.md#-gitbook)
 
+---
+
+## 🙉 gitbook
+- [ASP.NET Core 快速入门](https://mingsonzheng.gitbook.io/aspnetcore-quick-start/)
+- [ASP.NET Core 项目实战](https://mingsonzheng.gitbook.io/aspnetcore-distributed-project-combat/)
+- [.NET Core 开发实战](https://mingsonzheng.gitbook.io/aspnetcore-development-actual-combat/)
+- [.NET 云原生架构师训练营](https://mingsonzheng.gitbook.io/aspnetcore-architect-training-camp/)
+- [Kubernetes全栈架构师](https://mingsonzheng.gitbook.io/kubernetes-full-stack-architect/)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
 ### 🐮DotNet NB
@@ -436,14 +446,4 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
-## 🙉 gitbook
-- [ASP.NET Core 快速入门](https://mingsonzheng.gitbook.io/aspnetcore-quick-start/)
-- [ASP.NET Core 项目实战](https://mingsonzheng.gitbook.io/aspnetcore-distributed-project-combat/)
-- [.NET Core 开发实战](https://mingsonzheng.gitbook.io/aspnetcore-development-actual-combat/)
-- [.NET 云原生架构师训练营](https://mingsonzheng.gitbook.io/aspnetcore-architect-training-camp/)
-- [Kubernetes全栈架构师](https://mingsonzheng.gitbook.io/kubernetes-full-stack-architect/)
-
-#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
----
-
-🐮🏷️🎁🧱🧮🍇🍉💡💻🛰️☁️🧰🌍🧲🙇🧭🍺✈️🔋📚📰🚤🏖️🏗️
+🙉🐮🏷️🎁🧱🧮🍇🍉💡💻🛰️☁️🧰🌍🧲🙇🧭🍺✈️🔋📚📰🚤🏖️🏗️
