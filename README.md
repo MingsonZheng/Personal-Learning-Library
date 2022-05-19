@@ -45,6 +45,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
+- [🙉 gitbook]()
 
 ---
 
@@ -431,6 +432,16 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🙉 gitbook
+- [ASP.NET Core 快速入门](https://mingsonzheng.gitbook.io/aspnetcore-quick-start/)
+- [ASP.NET Core 项目实战](https://mingsonzheng.gitbook.io/aspnetcore-distributed-project-combat/)
+- [.NET Core 开发实战](https://mingsonzheng.gitbook.io/aspnetcore-development-actual-combat/)
+- [.NET 云原生架构师训练营](https://mingsonzheng.gitbook.io/aspnetcore-architect-training-camp/)
+- [Kubernetes全栈架构师](https://mingsonzheng.gitbook.io/kubernetes-full-stack-architect/)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
