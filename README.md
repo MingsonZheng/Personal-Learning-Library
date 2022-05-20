@@ -50,10 +50,10 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 ---
 
 ## 🙉 gitbook
-- [ASP.NET Core 快速入门](https://mingsonzheng.gitbook.io/aspnetcore-quick-start/)
-- [ASP.NET Core 项目实战](https://mingsonzheng.gitbook.io/aspnetcore-distributed-project-combat/)
-- [.NET Core 开发实战](https://mingsonzheng.gitbook.io/aspnetcore-development-actual-combat/)
 - [.NET 云原生架构师训练营](https://mingsonzheng.gitbook.io/aspnetcore-architect-training-camp/)
+- [.NET Core 开发实战](https://mingsonzheng.gitbook.io/aspnetcore-development-actual-combat/)
+- [ASP.NET Core 项目实战](https://mingsonzheng.gitbook.io/aspnetcore-distributed-project-combat/)
+- [ASP.NET Core 快速入门](https://mingsonzheng.gitbook.io/aspnetcore-quick-start/)
 - [Kubernetes全栈架构师](https://mingsonzheng.gitbook.io/kubernetes-full-stack-architect/)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
