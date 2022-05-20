@@ -21,7 +21,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 ![CloudNative NB](https://images.cnblogs.com/cnblogs_com/MingsonZheng/1311579/o_211016161000%E4%BA%8C%E7%BB%B4%E7%A0%812.jpg)
 
 ## 🔍目录(善用Ctrl+F)
-- [🙉 gitbook](https://github.com/MingsonZheng/Personal-Learning-Library/blob/main/README.md#-gitbook)
+- [🙉 gitbook](https://github.com/MingsonZheng/Personal-Learning-Library#-gitbook)
 - [🐮DotNet NB](https://github.com/MingsonZheng/Personal-Learning-Library#dotnet-nb)
 - [🏷️年终回顾](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8F%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE)
 - [🎁ASP.NET Core 快速入门](https://github.com/MingsonZheng/Personal-Learning-Library#aspnet-core-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8)
