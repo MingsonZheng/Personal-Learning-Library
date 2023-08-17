@@ -47,7 +47,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
 - [🚀GOAdvancedTrainingCamp](https://github.com/MingsonZheng/GOAdvancedTrainingCamp)
-- [🙇AlgorithmTrainingCamp](https://github.com/MingsonZheng/AlgorithmTrainingCamp)
+- [🙇算法训练营](https://github.com/MingsonZheng/AlgorithmTrainingCamp)
 - [🧲leetcode 题目分类，题解](https://github.com/MingsonZheng/leetcode)
 - [🌳路由树](https://github.com/MingsonZheng/RoutingTree)
 
