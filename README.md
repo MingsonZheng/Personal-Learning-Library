@@ -50,6 +50,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🙇算法训练营](https://github.com/MingsonZheng/AlgorithmTrainingCamp)
 - [🧲leetcode 题目分类，题解](https://github.com/MingsonZheng/leetcode)
 - [🌳路由树](https://github.com/MingsonZheng/RoutingTree)
+- [🎄Java 编程基础](https://github.com/MingsonZheng/java-base-demo)
 
 ---
 
