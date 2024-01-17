@@ -52,6 +52,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🌳路由树](https://github.com/MingsonZheng/RoutingTree)
 - [🎄Java 编程基础](https://github.com/MingsonZheng/java-base-demo)
 - [🎅Java 8 新特性](https://github.com/MingsonZheng/java-8-demo)
+- [🔥Java Web 开发](https://github.com/MingsonZheng/java-web-demo)
 
 ---
 
