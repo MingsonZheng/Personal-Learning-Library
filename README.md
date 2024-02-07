@@ -565,12 +565,8 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
-## [🔥Java Web 开发](https://github.com/MingsonZheng/java-web-demo)
-- HTML
-- JS
-- AJAX
-- Vue
-- Web
+## 🔥Java Web 开发
+- [Java Web 开发](https://github.com/MingsonZheng/java-web-demo)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
