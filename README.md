@@ -39,7 +39,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🧭Kubernetes全栈架构师](https://github.com/MingsonZheng/Personal-Learning-Library#kubernetes%E5%85%A8%E6%A0%88%E6%9E%B6%E6%9E%84%E5%B8%88)
 - [🍺CloudNative NB](https://github.com/MingsonZheng/Personal-Learning-Library#cloudnative-nb)
 - [✈️Go语言核心36讲](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fgo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2)
-- [✈️Go语言核心36讲学习源码](https://github.com/MingsonZheng/go-core-demo)
+- [✈️Go语言核心36讲学习源码](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fgo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2%E5%AD%A6%E4%B9%A0%E6%BA%90%E7%A0%81)
 - [🔋CSharpInDepth](https://github.com/MingsonZheng/CSharpInDepth)
 - [📚GolangIMSystem](https://github.com/MingsonZheng/GolangIMSystem)
 - [📰DaprDemo](https://github.com/MingsonZheng/DaprDemo)
