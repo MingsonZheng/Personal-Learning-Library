@@ -459,11 +459,83 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+## 🔋CSharpInDepth
+- [委托的兼容性](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E5%A7%94%E6%89%98%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7/Program.cs)
+- [迭代器](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E8%BF%AD%E4%BB%A3%E5%99%A8/Program.cs)
+- [lambda表达式](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/Program.cs)
+- [扩展方法](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E6%89%A9%E5%B1%95%E6%96%B9%E6%B3%95/Program.cs)
+- [查询表达式](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E6%9F%A5%E8%AF%A2%E8%A1%A8%E8%BE%BE%E5%BC%8F/Program.cs)
+- [动态类型](https://github.com/MingsonZheng/CSharpInDepth/blob/main/src/%E5%8A%A8%E6%80%81%E7%B1%BB%E5%9E%8B/Program.cs)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [📚GolangIMSystem](https://github.com/MingsonZheng/GolangIMSystem)
+- 构建基础Server
+- 用户上线功能
+- 用户消息广播机制
+- 用户业务层封装
+- 在线用户查询
+- 修改用户名
+- 超时强踢功能
+- 私聊功能
+- 客户端类型定义与连接
+- 解析命令行
+- 菜单显示
+- 更新用户名
+- 公聊模式
+- 私聊模式
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## 🚤无代码埋点通用权限管理系统
+- [权限系统 RGCA 架构设计](https://www.cnblogs.com/MingsonZheng/p/15824666.html)
+- [权限系统 RGCA 开发任务](https://www.cnblogs.com/MingsonZheng/p/15881489.html)
+- [权限系统 代码实现 ActionAccess](https://www.cnblogs.com/MingsonZheng/p/15898449.html)
+- [权限系统 代码实现 EntityAccess](https://www.cnblogs.com/MingsonZheng/p/15902528.html)
+- [权限系统 代码实现 Store.EntityFramework](https://www.cnblogs.com/MingsonZheng/p/15906650.html)
+- [权限系统 代码实现 Identity](https://www.cnblogs.com/MingsonZheng/p/15911606.html)
+- [权限系统 代码实现 WebApplication](https://www.cnblogs.com/MingsonZheng/p/15916026.html)
+- [权限系统 代码重构](https://www.cnblogs.com/MingsonZheng/p/15920886.html)
+- [权限系统 系统演示 ActionAccess](https://www.cnblogs.com/MingsonZheng/p/15925035.html)
+- [权限系统 系统演示 EntityAccess](https://www.cnblogs.com/MingsonZheng/p/15929732.html)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
 ## 🏖️ML.NET 官方教程
 - [ML.NET API 入门](https://github.com/MingsonZheng/ML.NET/tree/main/myMLApp)
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🎅Java 8 新特性](https://github.com/MingsonZheng/java-8-demo)
+- Lambda表达式的使用举例
+- Lambda表达式的使用
+- 函数式接口的介绍
+- java内置的4大核心函数式接口
+- 方法引用
+- 构造器引用
+- 数组引用
+- Stream的实例化
+- Stream的中间操作-筛选与切片，映射，排序
+- Stream的终止操作-匹配与查找，归约，收集
+- Optional类的介绍
+- Optional类的使用举例
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🔥Java Web 开发](https://github.com/MingsonZheng/java-web-demo)
+- HTML
+- JS
+- AJAX
+- Vue
+- Web
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
