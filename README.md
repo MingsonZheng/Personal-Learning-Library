@@ -46,7 +46,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%E6%97%A0%E4%BB%A3%E7%A0%81%E5%9F%8B%E7%82%B9%E9%80%9A%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%EF%B8%8Freactdemo)
-- [🚀GOAdvancedTrainingCamp](https://github.com/MingsonZheng/GOAdvancedTrainingCamp)
+- [🚀GOAdvancedTrainingCamp](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#goadvancedtrainingcamp)
 - [🙇算法训练营](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83%E8%90%A5)
 - [🧲leetcode 题目分类，题解](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#leetcode-%E9%A2%98%E7%9B%AE%E5%88%86%E7%B1%BB%E9%A2%98%E8%A7%A3)
 - [🌳路由树](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%E8%B7%AF%E7%94%B1%E6%A0%91)
