@@ -141,6 +141,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [【译】.NET 7 中的性能改进（十三）](https://www.cnblogs.com/MingsonZheng/p/17190317.html)
 - [【译】使用 ChatGPT 和 Azure Cosmos DB 构建智能应用程序](https://www.cnblogs.com/MingsonZheng/p/17249955.html)
 - [【译】介绍 MSTest Runner – CLI、Visual Studio 等](https://www.cnblogs.com/MingsonZheng/p/18010201)
+- [【译】宣布推出适用于 .NET 的 Azure Migrate 应用程序和代码评估工具](https://www.cnblogs.com/MingsonZheng/p/18011470)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
