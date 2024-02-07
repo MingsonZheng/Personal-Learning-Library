@@ -102,6 +102,11 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+## [🧮每天听道题](https://github.com/MingsonZheng/ListenOneQuestionEveryDay)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
 ## 🍇说透中台
 - [说透中台（概念篇）](https://www.cnblogs.com/MingsonZheng/p/12005968.html)
 - [说透中台（落地篇一）](https://www.cnblogs.com/MingsonZheng/p/12013892.html)
@@ -489,6 +494,11 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
+## [📰DaprDemo](https://github.com/MingsonZheng/DaprDemo)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
 ## 🚤无代码埋点通用权限管理系统
 - [权限系统 RGCA 架构设计](https://www.cnblogs.com/MingsonZheng/p/15824666.html)
 - [权限系统 RGCA 开发任务](https://www.cnblogs.com/MingsonZheng/p/15881489.html)
@@ -509,6 +519,40 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [使用 ML.NET Model Builder 训练机器学习模型进行预测性维护](https://github.com/MingsonZheng/ML.NET/tree/main/PredictiveMaintenanceConsole)
 - [使用 ML.NET 模型生成器在 Web 应用程序中分析网站评论的情绪](https://github.com/MingsonZheng/ML.NET/tree/main/SentimentRazor)
 - [通过模型生成器使用回归来预测价格](https://github.com/MingsonZheng/ML.NET/tree/main/TaxiFare_API)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+##[🚀GOAdvancedTrainingCamp](https://github.com/MingsonZheng/GOAdvancedTrainingCamp)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🙇算法训练营](https://github.com/MingsonZheng/AlgorithmTrainingCamp)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🧲leetcode 题目分类，题解](https://github.com/MingsonZheng/leetcode)
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🌳路由树](https://github.com/MingsonZheng/RoutingTree)
+- v1：极简路由树设计
+- v2：支持 * 匹配路由
+- v3：支持复杂匹配
+- v4: 优化
+
+#### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
+---
+
+## [🎄Java 编程基础](https://github.com/MingsonZheng/java-base-demo)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
