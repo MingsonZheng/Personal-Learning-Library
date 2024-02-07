@@ -40,10 +40,10 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🍺CloudNative NB](https://github.com/MingsonZheng/Personal-Learning-Library#cloudnative-nb)
 - [✈️Go语言核心36讲](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fgo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2)
 - [✈️Go语言核心36讲学习源码](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fgo%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%8336%E8%AE%B2%E5%AD%A6%E4%B9%A0%E6%BA%90%E7%A0%81)
-- [🔋CSharpInDepth](https://github.com/MingsonZheng/CSharpInDepth)
-- [📚GolangIMSystem](https://github.com/MingsonZheng/GolangIMSystem)
+- [🔋CSharpInDepth](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#csharpindepth)
+- [📚GolangIMSystem](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#golangimsystem)
 - [📰DaprDemo](https://github.com/MingsonZheng/DaprDemo)
-- [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/dotnetnb.security)
+- [🚤无代码埋点通用权限管理系统](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%E6%97%A0%E4%BB%A3%E7%A0%81%E5%9F%8B%E7%82%B9%E9%80%9A%E7%94%A8%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
 - [🏖️ML.NET 官方教程](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Fmlnet-%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B)
 - [🏗️ReactDemo](https://github.com/MingsonZheng/ReactDemo)
 - [🚀GOAdvancedTrainingCamp](https://github.com/MingsonZheng/GOAdvancedTrainingCamp)
@@ -51,8 +51,8 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🧲leetcode 题目分类，题解](https://github.com/MingsonZheng/leetcode)
 - [🌳路由树](https://github.com/MingsonZheng/RoutingTree)
 - [🎄Java 编程基础](https://github.com/MingsonZheng/java-base-demo)
-- [🎅Java 8 新特性](https://github.com/MingsonZheng/java-8-demo)
-- [🔥Java Web 开发](https://github.com/MingsonZheng/java-web-demo)
+- [🎅Java 8 新特性](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#java-8-%E6%96%B0%E7%89%B9%E6%80%A7)
+- [🔥Java Web 开发](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#java-web-%E5%BC%80%E5%8F%91)
 
 ---
 
