@@ -31,7 +31,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [🍉译](https://github.com/MingsonZheng/Personal-Learning-Library#%E8%AF%91)
 - [💡.NET Conf 2019](https://github.com/MingsonZheng/Personal-Learning-Library#net-conf-2019)
 - [💻读书笔记](https://github.com/MingsonZheng/Personal-Learning-Library#%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
-- [🛰️.NET Core开发实战](https://github.com/MingsonZheng/DotNetCoreDevelopmentActualCombat)
+- [🛰️.NET Core开发实战](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%EF%B8%8Fnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)
 - [☁️ASP.NET Core分布式项目实战](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Faspnet-core%E5%88%86%E5%B8%83%E5%BC%8F%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98)
 - [🧰.NET 云原生架构师训练营](https://github.com/MingsonZheng/ArchitectTrainingCamp)
 - [🌍设计模式](https://github.com/MingsonZheng/Personal-Learning-Library#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
