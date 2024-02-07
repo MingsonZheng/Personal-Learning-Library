@@ -33,7 +33,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [💻读书笔记](https://github.com/MingsonZheng/Personal-Learning-Library#%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0)
 - [🛰️.NET Core开发实战](https://github.com/MingsonZheng/Personal-Learning-Library?tab=readme-ov-file#%EF%B8%8Fnet-core%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)
 - [☁️ASP.NET Core分布式项目实战](https://github.com/MingsonZheng/Personal-Learning-Library#%EF%B8%8Faspnet-core%E5%88%86%E5%B8%83%E5%BC%8F%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98)
-- [🧰.NET 云原生架构师训练营](https://github.com/MingsonZheng/ArchitectTrainingCamp)
+- [🧰.NET 云原生架构师训练营](https://github.com/MingsonZheng/Personal-Learning-Library#net-%E4%BA%91%E5%8E%9F%E7%94%9F%E6%9E%B6%E6%9E%84%E5%B8%88%E8%AE%AD%E7%BB%83%E8%90%A5)
 - [🌍设计模式](https://github.com/MingsonZheng/Personal-Learning-Library#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [🙇DDD实战课](https://github.com/MingsonZheng/Personal-Learning-Library#ddd%E5%AE%9E%E6%88%98%E8%AF%BE)
 - [🧭Kubernetes全栈架构师](https://github.com/MingsonZheng/Personal-Learning-Library#kubernetes%E5%85%A8%E6%A0%88%E6%9E%B6%E6%9E%84%E5%B8%88)
