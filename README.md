@@ -548,19 +548,8 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
 
-## [🎅Java 8 新特性](https://github.com/MingsonZheng/java-8-demo)
-- Lambda表达式的使用举例
-- Lambda表达式的使用
-- 函数式接口的介绍
-- java内置的4大核心函数式接口
-- 方法引用
-- 构造器引用
-- 数组引用
-- Stream的实例化
-- Stream的中间操作-筛选与切片，映射，排序
-- Stream的终止操作-匹配与查找，归约，收集
-- Optional类的介绍
-- Optional类的使用举例
+## 🎅Java 8 新特性
+- [Java 8 新特性](https://github.com/MingsonZheng/java-8-demo)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
