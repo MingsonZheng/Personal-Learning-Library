@@ -146,6 +146,7 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [【译】发布 .NET Aspire 预览版 2（二） ](https://www.cnblogs.com/MingsonZheng/p/18012526)
 - [【译】.NET 8 网络改进（一） ](https://www.cnblogs.com/MingsonZheng/p/18013134)
 - [【译】.NET 8 网络改进（二）](https://www.cnblogs.com/MingsonZheng/p/18013332)
+- [【译】.NET 8 网络改进（三）](https://www.cnblogs.com/MingsonZheng/p/18013688)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
