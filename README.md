@@ -81,6 +81,8 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [路漫漫其修远兮，吾将上下而求索--2019OKR规划](https://www.cnblogs.com/MingsonZheng/p/11273677.html)
 - [2019年终回顾：路漫漫其修远兮，吾将上下而求索](https://www.cnblogs.com/MingsonZheng/p/12122268.html)
 - [2020年终回顾：时间会回答成长，成长会回答梦想](https://www.cnblogs.com/MingsonZheng/p/14164034.html)
+- [2021 & 2022年终回顾：山河无恙，烟火寻常](https://www.cnblogs.com/MingsonZheng/p/17016017.html)
+- [2023年终回顾：一切都来得及 ](https://www.cnblogs.com/MingsonZheng/p/18049528)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
