@@ -155,6 +155,10 @@ CloudNative NB：云原生技术学习分享，社区热点分享
 - [【译】如何使库与本机 AOT 兼容（一）](https://www.cnblogs.com/MingsonZheng/p/18016223)
 - [【译】如何使库与本机 AOT 兼容（二）](https://www.cnblogs.com/MingsonZheng/p/18017802)
 - [【译】WinForms：分析一下（我用 Visual Basic 写的）](https://www.cnblogs.com/MingsonZheng/p/18692763)
+- [【译】轻松评估 AI 应用程序的质量 ](https://www.cnblogs.com/MingsonZheng/p/18693290)
+- [【译】.NET 升级助手现在支持升级到集中式包管理](https://www.cnblogs.com/MingsonZheng/p/18694980)
+- [【译】融入人工智能的 eShop – 全面的智能应用示例 ](https://www.cnblogs.com/MingsonZheng/p/18695888)
+- [【译】MongoDB EF Core 提供程序：有什么新功能？](https://www.cnblogs.com/MingsonZheng/p/18696241)
 
 #### 🔝[返回目录](https://github.com/MingsonZheng/Personal-Learning-Library#%E7%9B%AE%E5%BD%95%E5%96%84%E7%94%A8ctrlf)
 ---
